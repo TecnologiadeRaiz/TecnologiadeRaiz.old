@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
 	<title>TdR</title>
 	<subtitle>TdR</subtitle>
-	<link href="https://TdR.libre.org.ar/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://TdR.libre.org.ar"/>
+	<link href="https://tecnologiaderaiz.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://tecnologiaderaiz.github.io"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-04-25T00:00:00+00:00</updated>
-	<id>https://TdR.libre.org.ar/atom.xml</id>
+	<id>https://tecnologiaderaiz.github.io/atom.xml</id>
 	<entry xml:lang="es">
 		<title>Paso a paso para crear el diseño de tu antena sectorial</title>
 		<published>2022-04-25T00:00:00+00:00</published>
 		<updated>2022-04-25T00:00:00+00:00</updated>
-		<link href="https://TdR.libre.org.ar/paso-a-paso-sectorial/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/paso-a-paso-sectorial/</id>
+		<link href="https://tecnologiaderaiz.github.io/paso-a-paso-sectorial/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/paso-a-paso-sectorial/</id>
 		<content type="html">&lt;p&gt;Desde nuestra realidad, intentamos crear soluciones para el desarrollo de Hardware en los territorios, de forma accesible.&lt;&#x2F;p&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h1 id=&quot;paso-a-paso-para-crear-el-diseno-de-tu-antena-sectorial&quot;&gt;Paso a paso para crear el diseño de tu antena sectorial&lt;&#x2F;h1&gt;
 &lt;h3 id=&quot;en-primer-lugar-agradecemos-a-nlnet-y-altermundi-por-hacer-posible-que-este-proyecto-funcione&quot;&gt;En primer lugar, agradecemos a &lt;strong&gt;NlNet&lt;&#x2F;strong&gt; y &lt;strong&gt;Altermundi&lt;&#x2F;strong&gt; por hacer posible que este proyecto funcione&lt;&#x2F;h3&gt;
@@ -50,8 +50,8 @@
 		<title>FAQ</title>
 		<published>2021-05-01T19:30:00+00:00</published>
 		<updated>2021-05-01T19:30:00+00:00</updated>
-		<link href="https://TdR.libre.org.ar/docs/help/faq/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/docs/help/faq/</id>
+		<link href="https://tecnologiaderaiz.github.io/docs/help/faq/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/docs/help/faq/</id>
 		<content type="html">&lt;h2 id=&quot;what-is-the-adidoks&quot;&gt;What is the AdiDoks?&lt;&#x2F;h2&gt;
 &lt;p&gt;AdiDoks is a Zola theme for Documentation&#x27;s sites, ported by the Hugo Theme
 &lt;a href=&quot;https:&#x2F;&#x2F;getdoks.org&quot;&gt;Doks&lt;&#x2F;a&gt;, which is a pretty nice theme. Thanks a lot to 
@@ -79,8 +79,8 @@
 		<title>Code of Conduct</title>
 		<published>2021-05-01T18:20:00+00:00</published>
 		<updated>2021-05-01T18:20:00+00:00</updated>
-		<link href="https://TdR.libre.org.ar/docs/contributing/code-of-conduct/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/docs/contributing/code-of-conduct/</id>
+		<link href="https://tecnologiaderaiz.github.io/docs/contributing/code-of-conduct/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/docs/contributing/code-of-conduct/</id>
 		<content type="html">&lt;h2 id=&quot;our-pledge&quot;&gt;Our Pledge&lt;&#x2F;h2&gt;
 &lt;p&gt;We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -182,8 +182,8 @@ at &lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;translat
 		<title>How to Contribute</title>
 		<published>2021-05-01T18:10:00+00:00</published>
 		<updated>2021-05-01T18:10:00+00:00</updated>
-		<link href="https://TdR.libre.org.ar/docs/contributing/how-to-contribute/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/docs/contributing/how-to-contribute/</id>
+		<link href="https://tecnologiaderaiz.github.io/docs/contributing/how-to-contribute/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/docs/contributing/how-to-contribute/</id>
 		<content type="html">&lt;p&gt;👉 Make sure to read the &lt;a href=&quot;..&#x2F;code-of-conduct&#x2F;&quot;&gt;Code of Conduct&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;contribute-to-doks&quot;&gt;Contribute to Doks&lt;&#x2F;h2&gt;
 &lt;p&gt;👉 The AdiDoks code lives in the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&quot;&gt;&lt;code&gt;adidoks&lt;&#x2F;code&gt; repository&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -209,8 +209,8 @@ of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;h-enk&#x2F;getdoks.org
 		<title>Hello World</title>
 		<published>2021-05-01T09:19:42+00:00</published>
 		<updated>2021-05-01T09:19:42+00:00</updated>
-		<link href="https://TdR.libre.org.ar/blog/hello-world/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/blog/hello-world/</id>
+		<link href="https://tecnologiaderaiz.github.io/blog/hello-world/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/blog/hello-world/</id>
 		<content type="html">&lt;pre data-lang=&quot;rust&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-rust &quot;&gt;&lt;code class=&quot;language-rust&quot; data-lang=&quot;rust&quot;&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;&#x2F;&#x2F; This is a comment, and is ignored by the compiler
 &lt;&#x2F;span&gt;&lt;span&gt;
 &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;&#x2F;&#x2F; This is the main function
@@ -235,8 +235,8 @@ of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;h-enk&#x2F;getdoks.org
 		<title>Quick Start</title>
 		<published>2021-05-01T08:20:00+00:00</published>
 		<updated>2021-05-01T08:20:00+00:00</updated>
-		<link href="https://TdR.libre.org.ar/docs/getting-started/quick-start/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/docs/getting-started/quick-start/</id>
+		<link href="https://tecnologiaderaiz.github.io/docs/getting-started/quick-start/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/docs/getting-started/quick-start/</id>
 		<content type="html">&lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;&#x2F;h2&gt;
 &lt;p&gt;Before using the theme, you need to install the &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;documentation&#x2F;getting-started&#x2F;installation&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt; ≥ 0.15.0.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;run-the-theme-directly&quot;&gt;Run the Theme Directly&lt;&#x2F;h2&gt;
@@ -287,8 +287,8 @@ content directories as needed.&lt;&#x2F;p&gt;
 		<title>Introduction</title>
 		<published>2021-05-01T08:00:00+00:00</published>
 		<updated>2021-05-01T08:00:00+00:00</updated>
-		<link href="https://TdR.libre.org.ar/docs/getting-started/introduction/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/docs/getting-started/introduction/</id>
+		<link href="https://tecnologiaderaiz.github.io/docs/getting-started/introduction/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/docs/getting-started/introduction/</id>
 		<content type="html">&lt;h2 id=&quot;quick-start&quot;&gt;Quick Start&lt;&#x2F;h2&gt;
 &lt;p&gt;One page summary of how to start a new AdiDoks project. &lt;a href=&quot;..&#x2F;quick-start&#x2F;&quot;&gt;Quick Start →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;go-further&quot;&gt;Go further&lt;&#x2F;h2&gt;
@@ -303,8 +303,8 @@ content directories as needed.&lt;&#x2F;p&gt;
 		<title>Markdown Syntax Guide</title>
 		<published>2021-04-20T09:19:42+00:00</published>
 		<updated>2021-04-20T09:19:42+00:00</updated>
-		<link href="https://TdR.libre.org.ar/blog/markdown-syntax/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/blog/markdown-syntax/</id>
+		<link href="https://tecnologiaderaiz.github.io/blog/markdown-syntax/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/blog/markdown-syntax/</id>
 		<content type="html">&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;&#x2F;h2&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;&#x2F;code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;&#x2F;code&gt; elements represent six levels of section
 headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;&#x2F;code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;&#x2F;code&gt; is the lowest.&lt;&#x2F;p&gt;
@@ -433,8 +433,8 @@ during Gopherfest, November 18, 2015.&lt;&#x2F;p&gt;
 		<title>Markdown Syntax Guide</title>
 		<published>2021-04-20T09:19:42+00:00</published>
 		<updated>2021-04-20T09:19:42+00:00</updated>
-		<link href="https://TdR.libre.org.ar/markdown-syntax/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/markdown-syntax/</id>
+		<link href="https://tecnologiaderaiz.github.io/markdown-syntax/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/markdown-syntax/</id>
 		<content type="html">&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;&#x2F;h2&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;&#x2F;code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;&#x2F;code&gt; elements represent six levels of section
 headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;&#x2F;code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;&#x2F;code&gt; is the lowest.&lt;&#x2F;p&gt;
@@ -563,8 +563,8 @@ during Gopherfest, November 18, 2015.&lt;&#x2F;p&gt;
 		<title>Placeholder Text</title>
 		<published>2021-04-10T09:19:42+00:00</published>
 		<updated>2021-04-10T09:19:42+00:00</updated>
-		<link href="https://TdR.libre.org.ar/blog/placeholder-text/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/blog/placeholder-text/</id>
+		<link href="https://tecnologiaderaiz.github.io/blog/placeholder-text/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/blog/placeholder-text/</id>
 		<content type="html">&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo. &lt;!--more--&gt;Redit
 teque digerit hominumque toris verebor lumina non cervice subde tollit usus
 habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus
@@ -613,8 +613,8 @@ Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt
 		<title>Math Typesetting</title>
 		<published>2021-04-08T09:19:42+00:00</published>
 		<updated>2021-04-08T09:19:42+00:00</updated>
-		<link href="https://TdR.libre.org.ar/blog/math-typesetting/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/blog/math-typesetting/</id>
+		<link href="https://tecnologiaderaiz.github.io/blog/math-typesetting/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/blog/math-typesetting/</id>
 		<content type="html">&lt;p&gt;In this example we will be using &lt;a href=&quot;https:&#x2F;&#x2F;katex.org&#x2F;&quot;&gt;KaTeX&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;Create a macro under &lt;code&gt;&#x2F;template&#x2F;macros&#x2F;math.html&lt;&#x2F;code&gt; with a macro named &lt;code&gt;math&lt;&#x2F;code&gt;.&lt;&#x2F;li&gt;
@@ -649,16 +649,16 @@ $$&lt;&#x2F;p&gt;
 		<title>Say hello to AdiDoks 👋</title>
 		<published>2021-04-03T07:00:00+00:00</published>
 		<updated>2021-04-03T07:00:00+00:00</updated>
-		<link href="https://TdR.libre.org.ar/blog/say-hello-to-zola-doks/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/blog/say-hello-to-zola-doks/</id>
+		<link href="https://tecnologiaderaiz.github.io/blog/say-hello-to-zola-doks/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/blog/say-hello-to-zola-doks/</id>
 		<content type="html"></content>
 	</entry>
 	<entry xml:lang="es">
 		<title>Aaran Xu</title>
 		<published>2021-04-01T08:50:45+00:00</published>
 		<updated>2021-04-01T08:50:45+00:00</updated>
-		<link href="https://TdR.libre.org.ar/authors/aaran-xu/" type="text/html"/>
-		<id>https://TdR.libre.org.ar/authors/aaran-xu/</id>
+		<link href="https://tecnologiaderaiz.github.io/authors/aaran-xu/" type="text/html"/>
+		<id>https://tecnologiaderaiz.github.io/authors/aaran-xu/</id>
 		<content type="html">&lt;p&gt;Creator of &lt;strong&gt;AdiDoks&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&quot;&gt;@aaranxu&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </content>

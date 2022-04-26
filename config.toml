@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://TdR.libre.org.ar"
+base_url = "https://tecnologiaderaiz.github.io"
 title = "TdR"
 description = "TdR"
 
