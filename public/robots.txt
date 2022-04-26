@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://TdR.libre.org.ar/sitemap.xml
