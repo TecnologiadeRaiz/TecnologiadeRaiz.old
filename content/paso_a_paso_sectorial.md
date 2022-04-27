@@ -19,7 +19,7 @@ Desde nuestra realidad, intentamos crear soluciones para el desarrollo de Hardwa
 
 
 
-![hola](q1iutf3.png)
+![hola](/static/img/q1iutf3.png)
 
 
 
