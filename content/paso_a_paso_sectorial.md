@@ -1,11 +1,15 @@
 +++
 title = "Paso a paso para crear el diseño de tu antena sectorial"
 date = 2022-04-25
+template = "blog/page.html"
+
+[taxonomies]
+authors = ["Public"]
+
+[extra]
+lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo de Hardware en los territorios, de forma accesible."
+
 +++
-
-Desde nuestra realidad, intentamos crear soluciones para el desarrollo de Hardware en los territorios, de forma accesible.
-
-<!-- more -->
 
 # Paso a paso para crear el diseño de tu antena sectorial
 
