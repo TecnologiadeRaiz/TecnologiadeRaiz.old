@@ -18,9 +18,7 @@ Desde nuestra realidad, intentamos crear soluciones para el desarrollo de Hardwa
 *  En la búsqueda de un diseño de antena con óptima ganancia, *facilmente replicable*, retomamos el trabajo de investigación que **AlterMundi** comenzó y sostuvo para estimar dimensiones de la antena, utilizando un calculador de Guías de Ondas, adpatado para 5.8 Ghz 
 
 
-
 ![hola](q1iutf3.png)
-
 
 
 ###  Esta es la base sobre la que construimos nuestras experiencias de producción y seguimos ampliando la investigación en  TDR. 
