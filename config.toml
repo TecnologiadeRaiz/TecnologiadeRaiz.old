@@ -1,7 +1,7 @@
 # The URL the site will be built for
-base_url = "https://tecnologiaderaiz.github.io"
+base_url = "https://tdr.libre.org.ar"
 title = "TdR"
-description = "TdR"
+description = "Tecnología de Raíz"
 
 # The default language; used in feeds and search index
 # Note: the search index doesn't support Chinese/Japanese/Korean Languages
