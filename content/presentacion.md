@@ -1,3 +1,11 @@
++++ title = "TDR" date = 2022-04-25 template = "blog/page.html"
+
+[taxonomies] authors = ["TdR"]
+
+[extra] lead = "Somos **Tecnología de Raíz**, vecinxs del Barrio Ecológico El Montecito ubicado en el Valle de Punilla (Córdoba, Argentina)"
+
++++
+
 #  TDR
 ![](https://i.imgur.com/nLb7m4g.jpg =250x180)
 
