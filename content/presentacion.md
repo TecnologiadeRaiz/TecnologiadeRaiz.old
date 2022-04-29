@@ -1,10 +1,9 @@
-+++ title = "TDR" date = 2022-04-25 template = "blog/page.html"
++++ title = "TDR" description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements." date = 2021-04-20 updated = 2021-04-20 draft = false template = "blog/page.html"
 
 [taxonomies] authors = ["TdR"]
 
-[extra] lead = "Somos **Tecnología de Raíz**, vecinxs del Barrio Ecológico El Montecito ubicado en el Valle de Punilla (Córdoba, Argentina)"
+[extra] lead = "Somos **Tecnología de Raíz**, vecinxs del Barrio Ecológico El Montecito ubicado en el Valle de Punilla (Córdoba, Argentina)" +++
 
-+++
 
 #  TDR
 ![](https://i.imgur.com/nLb7m4g.jpg =250x180)
