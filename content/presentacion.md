@@ -1,14 +1,24 @@
-+++ title ="TDR" description ="Sample article showcasing basic Markdown syntax and formatting for HTML elements." date = 2021-04-20 updated = 2021-04-20 draft = false template = "blog/page.html"
++++
+title ="TDR"
+description ="Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+date = 2021-04-20
+updated = 2021-04-20
+draft = false
+template = "blog/page.html"
 
-[taxonomies] authors = ["TdR"]
+[taxonomies]
+authors = ["TdR"]
 
-[extra] lead ="Somos **Tecnología de Raíz**, vecinxs del Barrio Ecológico El Montecito ubicado en el Valle de Punilla (Córdoba, Argentina)" +++
+[extra]
+lead ="Somos **Tecnología de Raíz**, vecinxs del Barrio Ecológico El Montecito ubicado en el Valle de Punilla (Córdoba, Argentina)"
+
++++
 
 
 #  TDR
 ![](https://i.imgur.com/nLb7m4g.jpg =250x180)
 
-## Somos **Tecnología de Raíz**, vecinxs del Barrio Ecológico El Montecito ubicado en el Valle de Punilla (Córdoba, Argentina) 
+## Somos **Tecnología de Raíz**, vecinxs del Barrio Ecológico El Montecito ubicado en el Valle de Punilla (Córdoba, Argentina)
 
 
 
@@ -28,13 +38,13 @@ Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barri
 
 ---
 
-# Enfocamos nuestro interés en la investigación y desarrollo de antenas. 
+# Enfocamos nuestro interés en la investigación y desarrollo de antenas.
 
-## Al conformarnos como grupo de trabajo, nuestra búsqueda es: 
+## Al conformarnos como grupo de trabajo, nuestra búsqueda es:
 * Generar un prototipo de antena que se pueda reproducir facilmente.
 * Generar un grupo de trabajo con perspectiva de género donde, a través de la comunicación, afianzar nuestros vínculos y así construir un espacio de trabajo armónico.
 * Desarrollar nuestro emprendimiento con fines productivos, para que nos permita generar ingresos.
- 
+
 
 
 - [x] Utilizamos para eso un espacio de taller con una cantidad limitada de herramientas, que nos permiten desarrollar nuestra producción, pero nos gustaría poder mejorarlo, tanto en lo edilicio como sumando máquinas y herramientas.
@@ -85,11 +95,11 @@ ___
 * Logística de LibreRouters, recepción testeo y envíos a nivel nacional.
 
 *  Revisión de mails -pedidos y consultas sobre LibreRouters-
- 
+
 * Acompañamiento y asistencia técnica en la red MonteNet.
- 
+
 * Acompañamiento y promoción de redes comunitarias por la zona.
- 
+
 
 
 ---
