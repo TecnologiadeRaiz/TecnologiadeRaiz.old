@@ -1,7 +1,5 @@
 # The URL the site will be built for
-# mirar doc para el custom domain https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
-# base_url = "https://tdr.libre.org.ar"  
-base_url = "https://tecnologiaderaiz.github.io"
+base_url = "https://tdr.libre.org.ar"  
 title = "TdR"
 description = "Tecnología de Raíz"
 
