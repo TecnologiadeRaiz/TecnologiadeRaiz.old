@@ -16,7 +16,7 @@ lead ="Somos **Tecnología de Raíz**, vecinxs del Barrio Ecológico El Montecit
 
 
 #  TDR
-![](https://i.imgur.com/nLb7m4g.jpg =250x180)
+![](https://i.imgur.com/nLb7m4g.jpg)
 
 ## Somos **Tecnología de Raíz**, vecinxs del Barrio Ecológico El Montecito ubicado en el Valle de Punilla (Córdoba, Argentina)
 
