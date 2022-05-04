@@ -21,7 +21,8 @@ lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo d
 *  En la búsqueda de un diseño de antena con óptima ganancia, *facilmente replicable*, retomamos el trabajo de investigación que **AlterMundi** comenzó y sostuvo para estimar dimensiones de la antena, utilizando un calculador de Guías de Ondas, adpatado para 5.8 Ghz 
 
 
-![](/q1iutf3.png)
+<img src="https://i.imgur.com/q1iutf3.png" width="600" height="300">
+
 
 
 ###  Esta es la base sobre la que construimos nuestras experiencias de producción y seguimos ampliando la investigación en  TDR. 
@@ -30,7 +31,7 @@ lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo d
 
 **Trabajamos con un programa de software libre de dibujo para el diseño de las antenas.**
 
-<img src="https://i.imgur.com/94INyTn.jpg" width="450" height="300">
+<img src="https://i.imgur.com/94INyTn.jpg" width="600" height="300">
 
  **Estos son los resultados utilizando [FreeCAD](https://www.freecadweb.org/downloads.php?lang=es_ES)**
  
@@ -49,7 +50,7 @@ lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo d
 
 ### Como **iluminador** utilizamos para cada chain, una ++espiga++ de 11,7mm de  cable coaxil 95/30 de Indeca y un ++conector++ RP-SMA Male en el otro extremo
 
-<img src="https://i.imgur.com/yNnzJKm.jpg" width="450" height="300">
+<img src="https://i.imgur.com/yNnzJKm.jpg" width="200" height="300">
 
 
 
