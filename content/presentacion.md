@@ -10,22 +10,22 @@ template = "blog/page.html"
 authors = ["TdR"]
 
 [extra]
-lead ="Somos **Tecnología de Raíz**, vecinxs del Barrio Ecológico El Montecito ubicado en el Valle de Punilla (Córdoba, Argentina)"
+lead ="Te contamos de dónde partimos"
 
 +++
 
 
-#  TDR
-<img src="https://i.imgur.com/nLb7m4g.jpg" width="300" height="300">
+#  **Tecnología De Raíz**
+<img src="https://i.imgur.com/nLb7m4g.jpg" align=center width="300" height="250">
 
-## Somos **Tecnología de Raíz**, vecinxs del Barrio Ecológico El Montecito ubicado en el Valle de Punilla (Córdoba, Argentina)
+   ## Somos **TdR** 
+   Vecinxs del Barrio Ecológico "El Montecito" ubicado en el Valle de Punilla (Córdoba, Argentina)
 
 
 
-::: info
-> *Formamos un grupo de estudio e investigación, con el cual generamos un espacio para trabajar y estudiar en conjunto, y lo sostenemos de forma continua hace 3 años.*
-:::
-<img src="https://i.imgur.com/MHbrezf.jpg" width="300" height="300">
+
+> *Formamos un grupo de estudio e investigación, con el cual generamos un espacio para trabajar y estudiar en conjunto, y lo sostenemos de forma continua desde mediados del 2019.* 
+ <img src="https://i.imgur.com/MHbrezf.jpg" width="450" height="300">
 
 
 
@@ -34,7 +34,7 @@ lead ="Somos **Tecnología de Raíz**, vecinxs del Barrio Ecológico El Montecit
 :railway_track: Partimos de la curiosidad y el interés en compartir información acerca de electricidad, electrónica, tecnología y el derecho a las reparaciones.
 Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barrio, y comenzamos a aprender sobre redes comunitarias.:spider_web:
 
-![](https://i.imgur.com/kKUC4GT.jpg =180x200)
+<img src="https://i.imgur.com/kKUC4GT.jpg" align=right width="180" height="200">
 
 
 ---
@@ -51,21 +51,16 @@ Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barri
 - [x] Utilizamos para eso un espacio de taller con una cantidad limitada de herramientas, que nos permiten desarrollar nuestra producción, pero nos gustaría poder mejorarlo, tanto en lo edilicio como sumando máquinas y herramientas.
 
 
-
-
-![](https://i.imgur.com/ljebrYh.jpg =200x180)
-
-
-![](https://i.imgur.com/EsKhwjh.jpg =180x200)
-
-![](https://i.imgur.com/iYsBOGX.jpg =180x200)
-
-![](https://i.imgur.com/3yWspAI.jpg =200x)
+<img src="https://i.imgur.com/ljebrYh.jpg" width=200 heingth=180> <img src="https://i.imgur.com/EsKhwjh.jpg" width="180" height="200"> <img src="https://i.imgur.com/iYsBOGX.jpg" width="180" height="200"> <img src="https://i.imgur.com/3yWspAI.jpg" width="200" height="180">
 
 ---
-==Comenzamos el camino de investigación construyendo una antena doble biquad, que se encuentra instalada en la red MonteNet y ayudó a mejorar el enlace entre dos nodos.==
+       Comenzamos el camino de investigación construyendo antenas doble biquad
+<img src="https://i.imgur.com/vWV7acY.jpg" width=200 heingth=180> <img src="https://i.imgur.com/lvkdowg.jpg" width=200 heingth=180> <img src="https://i.imgur.com/NS17Tfq.jpg" width=200 heingth=180> 
 
-![](https://i.imgur.com/ADAAuaG.jpg =200x)
+<img src="https://i.imgur.com/xDR5DUN.jpg" width=200 heingth=180> <img src="https://i.imgur.com/pLAnDUg.jpg" width=200 heingth=180> <img src="https://i.imgur.com/13lidiH.jpg" width=200 heingth=180> 
+
+       Alguna de las cuales se encuentran instaladas en la red MonteNet ayudando a mejorar el enlace entre nodos.
+<img src="https://i.imgur.com/ADAAuaG.jpg" width=200 heingth=180> 
 
 
 Hemos construido algunas *"guía de ondas"* para las redes comunitarias de nuestro territorio, y estamos trabajando en un emprendimiento productivo con las mismas, respondiendo a las necesidades de las redes, intentando crear un producto eficiente, de bajo costo y de producción local.
