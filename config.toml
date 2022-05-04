@@ -64,7 +64,7 @@ title_addition = "Tecnlogía de Raíz"
 
 # Set date format in blog publish metadata
 timeformat = "%Y-%m-%d" # e.g. 2021-05-01 09:19:42
-timezone = "GMT-03:00"
+timezone = "UTC"
 
 # Edit page on reposity or not
 edit_page = false
