@@ -11,9 +11,10 @@ lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo d
 
 +++
 
-# Paso a paso para crear el diseño de tu antena sectorial
+# Una idea de cómo hacer el diseño de tu antena sectorial
 
-### En primer lugar, agradecemos a **NlNet** y **Altermundi** por hacer posible que este proyecto funcione 
+    En primer lugar, agradecemos a **NlNet** y **Altermundi** 
+    por hacer posible que este proyecto funcione 
 
 *Desde nuestra realidad, intentamos crear soluciones para el desarrollo de Hardware en los territorios, de forma accesible* 
 
