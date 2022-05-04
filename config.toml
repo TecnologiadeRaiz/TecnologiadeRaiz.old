@@ -43,8 +43,8 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 author = "TdR"
-github = "https://github.com/TdR"
-twitter = "https://twitter.com/TdR"
+#github = "https://github.com/TdR"
+#twitter = "https://twitter.com/TdR"
 email = "tecnologiaderaiz@disroot.org"
 ganalytics = ""  # Google Analytics code
 
@@ -68,7 +68,7 @@ timezone = "UTC"
 
 # Edit page on reposity or not
 edit_page = false
-docs_repo = "https://github.com/TdR"
+docs_repo = "https://github.com/TecnologiadeRaiz"
 repo_branch = "main"
 
 ## Math settings
