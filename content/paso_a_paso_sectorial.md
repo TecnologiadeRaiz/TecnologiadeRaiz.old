@@ -13,8 +13,7 @@ lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo d
 
 # Una idea de cómo hacer el diseño de tu antena sectorial
 
-    En primer lugar, agradecemos a **NlNet** y **Altermundi** 
-    por hacer posible que este proyecto funcione 
+    Agradecemos a NlNet y Altermundi por hacer posible que este proyecto funcione 
 
 *Desde nuestra realidad, intentamos crear soluciones para el desarrollo de Hardware en los territorios, de forma accesible* 
 
@@ -31,26 +30,26 @@ lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo d
 
 **Trabajamos con un programa de software libre de dibujo para el diseño de las antenas.**
 
-![test](https://i.imgur.com/94INyTn.png)
+<img src="https://i.imgur.com/94INyTn.jpg" width="450" height="300">
 
  **Estos son los resultados utilizando [FreeCAD](https://www.freecadweb.org/downloads.php?lang=es_ES)**
  
  
 
-![](https://i.imgur.com/NYOZ9TS.jpg)
+<img src="https://i.imgur.com/NYOZ9TS.jpg" width="450" height="300">
 
 
 ## Guia de ondas y soporte
 
 
-![](https://i.imgur.com/zOvSDsL.jpg)
+<img src="https://i.imgur.com/zOvSDsL.jpg" width="450" height="300">
 
 
 
 
 ### Como **iluminador** utilizamos para cada chain, una ++espiga++ de 11,7mm de  cable coaxil 95/30 de Indeca y un ++conector++ RP-SMA Male en el otro extremo
 
-![](https://i.imgur.com/yNnzJKm.jpg)
+<img src="https://i.imgur.com/yNnzJKm.jpg" width="450" height="300">
 
 
 
@@ -58,12 +57,12 @@ lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo d
 
 
 
-![](https://i.imgur.com/478CJHB.png)
+
+<img src="https://i.imgur.com/478CJHB.jpg" width="450" height="300">
 
 
 
-
-![](https://i.imgur.com/8rRItRQ.png)
+<img src="https://i.imgur.com/8rRItRQ.jpg" width="450" height="300">
 
 
 
