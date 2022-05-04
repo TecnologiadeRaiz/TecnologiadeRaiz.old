@@ -59,11 +59,12 @@ Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barri
 
 <img src="https://i.imgur.com/xDR5DUN.jpg" width=200 heingth=180> <img src="https://i.imgur.com/pLAnDUg.jpg" width=200 heingth=180> <img src="https://i.imgur.com/13lidiH.jpg" width=200 heingth=180> 
 
-       Alguna de las cuales se encuentran instaladas en la red MonteNet ayudando a mejorar el enlace entre nodos.
+       Alguna de las cuales se encuentran instaladas en la red MonteNet 
+       ayudando a mejorar el enlace entre nodos.
 <img src="https://i.imgur.com/ADAAuaG.jpg" width=200 heingth=180> 
 
 
-Hemos construido algunas *"guía de ondas"* para las redes comunitarias de nuestro territorio, y estamos trabajando en un emprendimiento productivo con las mismas, respondiendo a las necesidades de las redes, intentando crear un producto eficiente, de bajo costo y de producción local.
+Hemos construido algunas [*"guía de ondas"*](https://tdr.libre.org.ar/paso-a-paso-sectorial/) para las redes comunitarias de nuestro territorio, y estamos trabajando en un emprendimiento productivo con las mismas, respondiendo a las necesidades de las redes, intentando crear un producto eficiente, de bajo costo y de producción local.
 
 
 
