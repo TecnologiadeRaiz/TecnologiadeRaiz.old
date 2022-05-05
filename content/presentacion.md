@@ -25,7 +25,7 @@ lead ="Te contamos de dónde partimos"
 
 
 > *Formamos un grupo de estudio e investigación, con el cual generamos un espacio para trabajar y estudiar en conjunto, y lo sostenemos de forma continua desde mediados del 2019.* 
- <img src="https://i.imgur.com/MHbrezf.jpg" width="450" height="300">
+ <img src="https://i.imgur.com/lLrzTjU.jpg" width="450" height="300">
 
 
 
