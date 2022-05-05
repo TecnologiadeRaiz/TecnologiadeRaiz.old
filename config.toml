@@ -55,7 +55,7 @@ is_netlify = true
 language_code = "es-AR"
 
 # Set theme-color meta tag for Chrome browser
-theme_color = "#fff"
+theme_color = "#bc8fd6"
 
 # More about site's title
 title_separator = "|"  # set as |, -, _, etc
