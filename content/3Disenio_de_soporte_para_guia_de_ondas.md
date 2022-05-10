@@ -1,10 +1,15 @@
-+++ title = "soporte para guía de ondas" #date = 2022-04-25 template = "blog/page.html"
++++ 
+title = "soporte para guía de ondas" 
+date = 2022-04-25 
+template = "blog/page.html"
 
-[taxonomies] authors = ["TdR"]
+[taxonomies] 
+authors = ["TdR"]
 
-[extra] lead = "Desarrollo del diseño del soporte"
-
+[extra] 
+lead = "Desarrollo del diseño del soporte"
 +++
+
 # Diseño de soporte para guía de ondas
 
 
