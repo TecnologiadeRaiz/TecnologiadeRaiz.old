@@ -1,4 +1,4 @@
-+++ 
++++
 title = "soporte para guía de ondas" 
 date = 2022-04-25 
 template = "blog/page.html"
@@ -9,6 +9,7 @@ authors = ["TdR"]
 [extra] 
 lead = "Desarrollo del diseño del soporte"
 +++
+
 # Diseño de soporte para guía de ondas
 
 En la búsqueda para obtener un diseño de soporte, tuvimos en cuenta:
