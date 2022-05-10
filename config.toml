@@ -115,7 +115,7 @@ site_links_search_box = false
 
 # Footer contents
 [extra.footer]
-info = 'Agradecemos a Dani y Lucas Bellomo por ayudar a poner este sitio en línea. Saludamos a los amigos de  <a href="https://altermundi.net/">AlterMundi</a>'
+info = 'Saludamos a los amigos de  <a href="https://altermundi.net/">AlterMundi</a>'
 
 #[[extra.footer.nav]]
 #name = "Privacy"
