@@ -26,11 +26,4 @@ En la búsqueda para obtener un diseño de soporte, tuvimos en cuenta:
 
 
 
-
-
-
----
-
-
-
 ###### tags: `Diseño`
