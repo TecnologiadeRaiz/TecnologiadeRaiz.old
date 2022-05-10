@@ -32,7 +32,7 @@ lead ="Te contamos de dónde partimos"
 
 
 
-:railway_track: Partimos de la curiosidad y el interés en compartir información acerca de electricidad, electrónica, tecnología y el derecho a las reparaciones.
+🛣️ Partimos de la curiosidad y el interés en compartir información acerca de electricidad, electrónica, tecnología y el derecho a las reparaciones.
 Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barrio, y comenzamos a aprender sobre redes comunitarias.:spider_web:
 
 <img src="https://i.imgur.com/kKUC4GT.jpg" align=right width="180" height="200">
