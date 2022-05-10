@@ -9,9 +9,7 @@ authors = ["TdR"]
 [extra] 
 lead = "Desarrollo del diseño del soporte"
 +++
-
 # Diseño de soporte para guía de ondas
-
 
 En la búsqueda para obtener un diseño de soporte, tuvimos en cuenta:
 - Que sea liviano.
@@ -23,7 +21,5 @@ En la búsqueda para obtener un diseño de soporte, tuvimos en cuenta:
 <img src="https://i.imgur.com/hSVqjId.png" width="500" height="300"> <img src="https://i.imgur.com/QhS3IQn.png" width="500" height="300">
 
 <img src="https://i.imgur.com/i77is0i.png" width="500" height="300"> <img src="https://i.imgur.com/R4a2en7.png" width="500" height="300">
-
-
 
 ###### tags: `Diseño`
