@@ -115,7 +115,7 @@ site_links_search_box = false
 
 # Footer contents
 [extra.footer]
-info = 'Saludamos a los amigos de  <a href="https://altermundi.net/">AlterMundi</a>'
+info = 'Saludamos a les amiges de  <a href="https://altermundi.net/">AlterMundi</a>'
 
 #[[extra.footer.nav]]
 #name = "Privacy"
