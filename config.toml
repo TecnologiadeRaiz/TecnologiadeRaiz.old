@@ -43,8 +43,8 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 author = "TdR"
-github = "https://github.com/TdR"
-twitter = "https://twitter.com/TdR"
+github = "https://www.instagram.com/tecnologiaderaiz/"
+twitter = "https://www.instagram.com/tecnologiaderaiz/"
 email = "tecnologiaderaiz@disroot.org"
 ganalytics = ""  # Google Analytics code
 
@@ -82,8 +82,8 @@ library = "katex"  # options: "katex", "mathjax". default is "katex".
 enable = false
 # this image will be used as fallback if a page has no image of its own
 image = "doks.png"
-twitter_site = "aaranxu"
-twitter_creator = "aaranxu"
+twitter_site = "TdR"
+twitter_creator = "TdR"
 facebook_author = "ichunyun"
 facebook_publisher = "ichunyun"
 og_locale = "en_US"
@@ -92,9 +92,9 @@ og_locale = "en_US"
 [extra.schema]
 type = "Organization"
 logo = "logo-TdR.png"
-# twitter = "https://twitter.com/TdR"
+twitter = "https://www.instagram.com/tecnologiaderaiz/"
 linked_in = ""
-# github = "https://github.com/TdR"
+github = "https://www.instagram.com/tecnologiaderaiz/"
 section = "blog" # see config.extra.main~url
 ## Sitelinks Search Box
 site_links_search_box = false
