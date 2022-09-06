@@ -59,11 +59,11 @@ lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo d
 
 
 
-<img src="https://i.imgur.com/478CJHB.jpg" width="450" height="300">
+<img src="https://i.imgur.com/sWBLNPN.png" width="450" height="300">
 
 
 
-<img src="https://i.imgur.com/8rRItRQ.jpg" width="450" height="300">
+<img src="https://i.imgur.com/Bm5bfip.png width="450" height="300">
 
 
 
