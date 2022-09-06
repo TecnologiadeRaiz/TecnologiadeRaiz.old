@@ -48,7 +48,7 @@ lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo d
 
 
 
-### Como **iluminador** utilizamos para cada chain, una ++espiga++ de 11,7mm de  cable coaxil 95/30 de Indeca y un ++conector++ RP-SMA Male en el otro extremo
+### Como **iluminador** utilizamos para cada chain, una espiga de 11,7mm de  cable coaxil 95/30 de Indeca y un conector RP-SMA Male en el otro extremo
 
 <img src="https://i.imgur.com/yNnzJKm.jpg" width="150" height="300">
 
