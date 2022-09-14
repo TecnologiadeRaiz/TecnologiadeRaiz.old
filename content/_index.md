@@ -1,6 +1,6 @@
 +++
 title = "Tecnología de Raíz"
-sort_by = "date"
+sort_by = "name"
 paginate_by = 3
 template = "blog/section.html"
 
