@@ -2,7 +2,7 @@
 title ="TDR"
 description ="Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 date = 2022-09-15
-updated = 2021-04-15
+updated = 2022-09-15
 draft = false
 template = "blog/page.html"
 
