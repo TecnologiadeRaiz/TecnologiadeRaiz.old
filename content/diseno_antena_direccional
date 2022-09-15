@@ -1,14 +1,20 @@
-+++ title = "Tecnología de Raíz" sort_by = "date" paginate_by = 3 template = "blog/section.html"
-The homepage contents
++++
+title ="Diseño de antena direccional"
+description ="Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+date = 2021-04-20
+updated = 2021-04-20
+draft = false
+template = "blog/page.html"
 
-#[extra] #lead = 'AdiDoks is a modern documentation theme, which is a port of the Hugo theme Doks for Zola.' #url = "/docs/getting-started/introduction/" #url_button = "Get started" #repo_version = "GitHub v0.1.0" #repo_license = "Open-source MIT License." #repo_url = "https://github.com/aaranxu/adidoks"
-Menu items
+[taxonomies]
+authors = ["TdR"]
 
-#[[extra.menu.main]] #name = "Docs" #section = "docs" #url = "/docs/getting-started/introduction/" #weight = 10
-
-#[[extra.menu.main]] #name = "Blog" #section = "blog" #url = "/blog/" #weight = 20
+[extra]
+lead ="Desarrollo de diseños para construir una antena direccional"
 
 +++
+
+
 
 Con el presente diseño se busca conseguir una antena MiMo para 5Ghz direccional, capaz de alcanzar entre 20dB y 25dB de ganancia
 <img src="https://i.imgur.com/ubGm5SP.png" width="500" height="300">
