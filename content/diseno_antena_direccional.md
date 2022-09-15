@@ -1,7 +1,7 @@
 +++
 title ="Diseño de antena direccional"
 description ="Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-date = 2021-04-20
+date = 2022-07-20
 updated = 2021-04-20
 draft = false
 template = "blog/page.html"
