@@ -1,10 +1,14 @@
-+++ title = "Paso a paso para crear el diseño de tu antena sectorial" date = 2022-04-25 template = "blog/page.html"
++++ title = "Tecnología de Raíz" sort_by = "date" paginate_by = 3 template = "blog/section.html"
+The homepage contents
 
-[taxonomies] authors = ["TdR"]
+#[extra] #lead = 'AdiDoks is a modern documentation theme, which is a port of the Hugo theme Doks for Zola.' #url = "/docs/getting-started/introduction/" #url_button = "Get started" #repo_version = "GitHub v0.1.0" #repo_license = "Open-source MIT License." #repo_url = "https://github.com/aaranxu/adidoks"
+Menu items
 
-[extra] lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo de Hardware en los territorios, de forma accesible."
+#[[extra.menu.main]] #name = "Docs" #section = "docs" #url = "/docs/getting-started/introduction/" #weight = 10
+
+#[[extra.menu.main]] #name = "Blog" #section = "blog" #url = "/blog/" #weight = 20
+
 +++
-
 
 Con el presente diseño se busca conseguir una antena MiMo para 5Ghz direccional, capaz de alcanzar entre 20dB y 25dB de ganancia
 <img src="https://i.imgur.com/ubGm5SP.png" width="500" height="300">
