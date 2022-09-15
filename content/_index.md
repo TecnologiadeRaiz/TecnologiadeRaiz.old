@@ -1,6 +1,6 @@
 +++
 title = "Tecnología de Raíz"
-sort_by = "reverse"
+sort_by = "title"
 paginate_by = 10
 template = "blog/section.html"
 
