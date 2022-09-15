@@ -17,7 +17,7 @@ lead ="Desarrollo de diseños para construir una antena direccional"
 
 
 Con el presente diseño se busca conseguir una antena MiMo para 5Ghz direccional, capaz de alcanzar entre 20dB y 25dB de ganancia
-<img src="https://i.imgur.com/ubGm5SP.png" width="500" height="300">
+<img src="https://i.imgur.com/ubGm5SP.png" width="500" height="500">
 
 
 En esta nueva iteración del diseño "Trompebólica", utilizamos una guía de ondas de 44mm con un reflector, para iluminar el plato parabolico.
