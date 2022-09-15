@@ -1,5 +1,5 @@
 +++
-title = "Paso a paso para crear el diseño de tu antena sectorial"
+title = "2.Paso a paso para crear el diseño de tu antena sectorial"
 date = 2022-04-25
 template = "blog/page.html"
 
