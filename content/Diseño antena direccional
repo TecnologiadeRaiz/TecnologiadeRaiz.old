@@ -2,12 +2,8 @@
 title="Diseño Antena Direccional" 
 date=2022-04-25 
 template="blog/page.html"
-
-[taxonomies] 
-authors=["TdR"]
-
-[extra] 
-lead="Desarrollo del diseño de la antena direccional"
+[taxonomies] authors=["TdR"]
+[extra] lead="Desarrollo del diseño de la antena direccional"
 +++
 
 Con el presente diseño se busca conseguir una antena MiMo para 5Ghz direccional, capaz de alcanzar entre 20dB y 25dB de ganancia
