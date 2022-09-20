@@ -67,7 +67,6 @@ lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo d
 
 
 
-Files in: https://github.com/P-22/Lopalir
-
+Files in: https://github.com/TecnologiadeRaiz/LoPALiR
 
 
