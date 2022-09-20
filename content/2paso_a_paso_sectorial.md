@@ -66,7 +66,7 @@ lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo d
 <img src="https://i.imgur.com/aPSEXgN.png" width="450" height="300">
 
 
-Files in: https://github.com/TecnologiadeRaiz/LoPALiR
+Files in: <a href="https://github.com/TecnologiadeRaiz/LoPALiR">Link to Github project</a>
 
 
 <img src="https://user-images.githubusercontent.com/104506596/191294248-aa22ad16-f991-412b-8d32-99e27614e7f2.png" alt="Logo NLnet: abstract logo of four people seen from above"  height="100">   <img src="https://nlnet.nl/image/logos/technologycommonstrust.svg"  height="100"> 
