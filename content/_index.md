@@ -15,11 +15,11 @@ template = "blog/section.html"
 #repo_url = "https://github.com/aaranxu/adidoks"
 
 # Menu items
-#[[extra.menu.main]]
-#name = "Docs"
-#section = "docs"
-#url = "/docs/getting-started/introduction/"
-#weight = 10
+[[extra.menu.main]]
+name = "Ingle'"
+section = "docs"
+url = "/docs/getting-started/introduction/"
+weight = 10
 
 #[[extra.menu.main]]
 #name = "Blog"
