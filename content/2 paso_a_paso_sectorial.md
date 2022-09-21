@@ -1,8 +1,8 @@
 +++
 title ="2. Paso a paso para diseñar antena sectorial"
 description ="Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-date = 2022-09-15
-updated = 2022-09-15
+date = 2022-09-21
+updated = 2022-09-21
 draft = false
 template = "blog/page.html"
 
@@ -10,44 +10,62 @@ template = "blog/page.html"
 authors = ["TdR"]
 
 [extra]
-lead ="Diseños para antena sectorial"
+lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo de Hardware en los territorios, de forma accesible."
 
 +++
 
+# Una idea de cómo hacer el diseño de tu antena sectorial
+
+    Agradecemos a NlNet y Altermundi por hacer posible que este proyecto funcione 
+
+*Desde nuestra realidad, intentamos crear soluciones para el desarrollo de Hardware en los territorios, de forma accesible* 
+
+
+*  En la búsqueda de un diseño de antena con óptima ganancia, *facilmente replicable*, retomamos el trabajo de investigación que **AlterMundi** comenzó y sostuvo para estimar dimensiones de la antena, utilizando un calculador de Guías de Ondas, adpatado para 5.8 Ghz 
+
+
+<img src="https://i.imgur.com/q1iutf3.png" width="500" height="300">
 
 
 
-# Con el presente diseño se busca conseguir una antena MiMo para 5Ghz direccional, capaz de alcanzar entre 20dB y 25dB de ganancia
-<img src="https://i.imgur.com/ubGm5SP.png" width="500" height="400">
+###  Esta es la base sobre la que construimos nuestras experiencias de producción y seguimos ampliando la investigación en  TDR. 
+### 
 
 
-En esta nueva iteración del diseño "Trompebólica", utilizamos una guía de ondas de 44mm con un reflector, para iluminar el plato parabolico.
-Usamos de molde un plato parabólico de 40cm de diámetro y 8cm de alto, calculando el foco a los 12,5cm del centro.
+**Trabajamos con un programa de software libre de dibujo para el diseño de las antenas.**
 
-<img src="https://i.imgur.com/O40ktXq.png" width="500" height="300"> <img src="https://i.imgur.com/r7B7nDr.png" width="500" height="300">
+<img src="https://i.imgur.com/94INyTn.jpg" width="500" height="300">
 
+ **Estos son los resultados utilizando [FreeCAD](https://www.freecadweb.org/downloads.php?lang=es_ES)**
+ 
+ 
 
-
-## Reflector.
-
-<img src="https://i.imgur.com/sjcB1Ct.png" width="500" height="300">
-
-
-Tapa, soporte de parabola y agarraderas.
-
-<img src="https://i.imgur.com/uCBFa1C.png" width="500" height="300">
+<img src="https://i.imgur.com/NYOZ9TS.jpg" width="450" height="300">
 
 
-<img src="https://i.imgur.com/I7ZMRJ2.png" width="500" height="300">
+## Guia de ondas y soporte
+
+
+<img src="https://i.imgur.com/zOvSDsL.jpg" width="450" height="300">
 
 
 
-## Diseño final.
+
+### Como **iluminador** utilizamos para cada chain, una espiga de 11,7mm de  cable coaxil 95/30 de Indeca y un conector RP-SMA Male en el otro extremo
+
+<img src="https://i.imgur.com/yNnzJKm.jpg" width="150" height="300">
 
 
-<img src="https://i.imgur.com/ivvFrU9.png" width="500" height="300">
 
-<img src="https://i.imgur.com/H1Ysg9e.png" width="500" height="300">
+## Ponemos a disposición los planos para construir estas antenas.
 
 
-<img src="https://i.imgur.com/i42kOdD.png" width="500" height="300">
+
+
+<img src="https://i.imgur.com/sWBLNPN.png" width="450" height="300">
+
+
+
+<img src="https://i.imgur.com/Bm5bfip.png" width="450" height="300">
+
+
