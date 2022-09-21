@@ -27,12 +27,12 @@ Usamos de molde un plato parabólico de 40cm de diámetro y 8cm de alto, calcula
 
 
 
-Reflector.
+## Reflector.
 
 <img src="https://i.imgur.com/sjcB1Ct.png" width="500" height="300">
 
 
-Tapa, soporte de parabola y agarraderas.
+## Tapa, soporte de parabola y agarraderas.
 
 <img src="https://i.imgur.com/uCBFa1C.png" width="500" height="300">
 
@@ -40,8 +40,10 @@ Tapa, soporte de parabola y agarraderas.
 <img src="https://i.imgur.com/I7ZMRJ2.png" width="500" height="300">
 
 
-Diseño final.
 <img src="https://i.imgur.com/ivvFrU9.png" width="500" height="300">
+
+
+## Diseño final.
 
 <img src="https://i.imgur.com/H1Ysg9e.png" width="500" height="300">
 
