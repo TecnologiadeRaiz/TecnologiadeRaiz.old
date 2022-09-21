@@ -1,5 +1,5 @@
 +++
-title = "3.Soporte para guía de ondas" 
+title = "3. Soporte para guía de ondas" 
 date = 2022-04-25 
 template = "blog/page.html"
 
