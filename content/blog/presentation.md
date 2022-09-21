@@ -1,8 +1,8 @@
 +++
 title ="1. TDR"
 description =""
-date = 
-updated = 
+date = 2022-09-15
+updated = 2022-09-15
 draft = false
 template = "blog/page.html"
 
