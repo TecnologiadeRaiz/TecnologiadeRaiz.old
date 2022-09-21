@@ -1,8 +1,8 @@
 +++
 title ="4. Directional antenna design "
 description ="Directional antenna design."
-date = 2021-04-20
-updated = 2021-04-20
+date = 2021-04-21
+updated = 2021-04-21
 draft = false
 template = "blog/page.html"
 
@@ -21,19 +21,21 @@ The present design aims to provide how to make a directional MiMo antenna for 5G
 <img src="https://i.imgur.com/ubGm5SP.png" width="500" height="500">
 
 
+
 In this new iteration of the "Trompebolic" design, we used a 44mm waveguide with a reflector to illuminate the parabolic dish.
 We used a 40cm diameter and 8cm high parabolic dish as a mould, calculating the focus at 12.5cm from the centre.
+
 
 <img src="https://i.imgur.com/O40ktXq.png" width="500" height="300"> <img src="https://i.imgur.com/r7B7nDr.png" width="500" height="300">
 
 
 
-Reflector.
+## Reflector.
 
 <img src="https://i.imgur.com/sjcB1Ct.png" width="500" height="300">
 
 
-Cover, parabola support and handles.
+## Cover, parabola support and handles.
 
 <img src="https://i.imgur.com/uCBFa1C.png" width="500" height="300">
 
@@ -41,7 +43,9 @@ Cover, parabola support and handles.
 <img src="https://i.imgur.com/I7ZMRJ2.png" width="500" height="300">
 
 
-Diseño final.
+## Diseño final.
+
+
 <img src="https://i.imgur.com/ivvFrU9.png" width="500" height="300">
 
 <img src="https://i.imgur.com/H1Ysg9e.png" width="500" height="300">
