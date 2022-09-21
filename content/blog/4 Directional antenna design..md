@@ -43,10 +43,11 @@ We used a 40cm diameter and 8cm high parabolic dish as a mould, calculating the 
 <img src="https://i.imgur.com/I7ZMRJ2.png" width="500" height="300">
 
 
+<img src="https://i.imgur.com/ivvFrU9.png" width="500" height="300">
+
+
 ## Diseño final.
 
-
-<img src="https://i.imgur.com/ivvFrU9.png" width="500" height="300">
 
 <img src="https://i.imgur.com/H1Ysg9e.png" width="500" height="300">
 
