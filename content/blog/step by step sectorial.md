@@ -18,7 +18,7 @@ lead = "From our reality, we try to create solutions for the development of Hard
 *From our reality, we try to create solutions for the development of Hardware in the territories, in an accessible way.* 
 
 
-*  In the search for an antenna design with optimal gain, easily replicable , we return to the research work that AlterMundi began and sustained to estimate dimensions of the antenna, using a Waveguide calculator, adapted for 5.8 Ghz
+*  In the search for an antenna design with optimal gain, easily replicable , we return to the research work that AlterMundi began and sustained to estimate dimensions of the antenna, using a [Waveguide calculator](https://github.com/TecnologiadeRaiz/LoPALiR/blob/6cfcefe5b7c623523bdbc38a3de3d6f52c728e81/circular_waveguide_tuneado.ods), adapted for 5.8 Ghz by Nicolás Echaniz
 
 
 <img src="https://i.imgur.com/q1iutf3.png" width="500" height="300">
