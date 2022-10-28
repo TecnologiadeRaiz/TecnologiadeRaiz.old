@@ -1,5 +1,5 @@
 +++
-title ="Espacio de trabajo. "
+title ="5. Espacio de trabajo. "
 description ="Espacio de trabajo."
 date = 2021-10-27
 updated = 2021-10-27
@@ -19,9 +19,9 @@ lead ="Descripción de nuestro espacio de trabajo"
 
 **Describiremos el espacio de trabajo, relacionadolo con las versiones de antenas guía de ondas que fuimos construyendo.**
 
-:::info
-El espacio físico en el que trabajamos es un ambiente de 5m x 4m, donde tenemos dos mesas de trabajo: 
-:::
+
+    El espacio físico en el que trabajamos es un ambiente de 5m x 4m, donde tenemos dos mesas de trabajo: 
+
 
 * una donde preparamos los caños y soportes y se trabaja con moladora, perforadora y soldadora electrica
 * otra donde está el dispositivo que sostiene los cables para soldar y resinar.
