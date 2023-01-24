@@ -1,5 +1,5 @@
 +++
-title ="2. Paso a paso para diseñar antena sectorial"
+title ="2. Diseño de antena sectorial"
 description ="Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 date = 2022-09-21
 updated = 2022-09-21
@@ -18,7 +18,6 @@ lead = "Desde nuestra realidad, intentamos crear soluciones para el desarrollo d
 
     Agradecemos a NlNet y Altermundi por hacer posible que este proyecto funcione 
 
-*Desde nuestra realidad, intentamos crear soluciones para el desarrollo de Hardware en los territorios, de forma accesible* 
 
 
 *  En la búsqueda de un diseño de antena con óptima ganancia, *facilmente replicable*, retomamos el trabajo de investigación que **AlterMundi** comenzó y sostuvo para estimar dimensiones de la antena, utilizando un [calculador de Guías de Ondas](https://github.com/TecnologiadeRaiz/LoPALiR/blob/6cfcefe5b7c623523bdbc38a3de3d6f52c728e81/circular_waveguide_tuneado.ods), adpatado para 5.8 Ghz por Nicolás Echaniz
