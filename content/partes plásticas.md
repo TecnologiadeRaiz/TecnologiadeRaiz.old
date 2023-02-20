@@ -1,0 +1,86 @@
++++
+title ="6. Partes plásticas"
+date = 2023-02-20
+updated =  2023-02-20
+draft = false
+template = "blog/page.html"
+
+[taxonomies]
+authors = ["TdR"]
+
+[extra]
+lead ="En este material mostraremos los diseños y planos de las partes plásticas que complementan el proceso de producción y a las antenas"
++++
+
+
+<h1>
+    Partes plásticas
+</h1>
+
+
+<p>
+    
+La posibilidad de acceder a la impresion 3d como recurso nos habilito a poder crear nuestros propios moldes (matriceria) para facilitar el proceso de producción, así como construir insumos para las guías de ondas.
+
+En principio, las partes plásticas surgieron de la necesidad de sustituir los regatones de plástico utilizados como tapas por tapas plásticas impresas en 3D.
+
+Viendo el potencial de las impresiones 3D diseñamos un prototipo de portachain para sostener los cables de la antena, y también moldes para facilitar la perforacion de los caños de las guías de ondas.
+<hr>
+    
+<h3>
+    <u>
+        Tapas
+    </u>
+</h3>
+
+
+Nuestro primer <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Partes%20plasticas/Tapas/TAPA-v1.FCStd">diseño</a> nos permitió mejorar el funcionamiento de la antena, ya que los regatones plásticos que usábamos como tapa interferían en la señal de las guías de ondas.
+    
+
+<img src="https://i.imgur.com/B5QyScj.png" width=300>
+<img src="https://i.imgur.com/qcSYKYG.jpg" width=130>
+<img src="https://i.imgur.com/USdhI9N.jpg" width=230>
+    <br>
+  
+<h3>
+    <u>
+        Molde de perforación
+    </u> 
+</h3>
+   
+    
+Este <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/MOLDE%20DE%20PERFORACION%20GUIA%20DE%20ONDAS-v2.FCStd">diseño</a> nos aporta precisión a la hora de realizar las perforaciones en la guía de ondas, agilizando el proceso de producción.
+
+<img src="https://i.imgur.com/wIoHxUG.jpg" width=230><img src="https://i.imgur.com/3hOE8YZ.png" width=330>
+        
+<br>
+
+
+<h3>
+    <u>
+        Portachain
+    </u>
+</h3>
+
+
+La posibilidad de diseñar <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Partes%20plasticas/PORTACHAIN">estas piezas</a> nos permitió optimizar la forma de sujetar los cables, que se presentaba como un desafìo en los prototipos anteriores, significando un costo y tiempos de producción más alto.
+
+
+<img src="https://i.imgur.com/M4A7HxO.jpg" width=170>
+<img src="https://i.imgur.com/huKXoWX.png" width=330>
+<img src="https://i.imgur.com/zUYhU1E.jpg" width=230>
+<img src="https://i.imgur.com/LlzesG8.png" width=330>
+    
+<br>
+    
+
+<h3>
+    <u>
+        Antena terminada con sus partes plásticas
+    </u>
+</h3>
+    
+    
+<img src="https://i.imgur.com/m1Qy7DX.jpg" width=170>
+<img src="https://i.imgur.com/hki5apn.jpg" width=300>
+</p>
