@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="preload" as="font" href="https://tdr.libre.org.ar/fonts/vendor/jost/jost-v4-latin-regular.woff2" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="https://tdr.libre.org.ar/fonts/vendor/jost/jost-v4-latin-700.woff2"  type="font/woff2" crossorigin>
+
+
+<link rel="stylesheet" href="https://tdr.libre.org.ar/main.css">
+
+
+
+  
+  
+  
+  
+  
+    
+  
+
+  
+  
+    
+    
+  
+  
+  
+    
+  
+  
+  
+  
+    
+  
+  
+  
+
+
+  <meta name="robots" content="index, follow">
+  <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+
+	
+
+
+	
+
+<title>5. How to build a waveguide? | TdR</title>
+<meta name="description" content="Development of steps to make a waveguide antenna, describing our workspace.">
+<link rel="canonical" href="https://tdr.libre.org.ar/blog/5-how-to-make-a-waveguide-antenna-description-of-our-workspace/">
+
+
+
+
+
+
+  
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "/blog/5-how-to-make-a-waveguide-antenna-description-of-our-workspace/"
+      },
+      "headline": "5. How to build a waveguide?",
+      "image": ,
+      "datePublished": "2021-12-21",
+      "dateModified": "2021-12-21",
+      "author": {
+        "@type": "Organization",
+        "name": "5. How to build a waveguide?"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "5. How to build a waveguide?",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "/logo-TdR.png"
+        }
+        
+      },
+      "description": "Development of steps to make a waveguide antenna, describing our workspace."
+    }
+    </script>
+  
+
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    
+      
+      
+        
+        
+        
+        
+        
+        
+        
+        
+          {
+            "@type": "ListItem",
+            "position":  1 ,
+            "name": "Home",
+            "item": "https://tdr.libre.org.ar/"
+          },
+          
+          
+          {
+            "@type": "ListItem",
+            "position":  2 ,
+            "name": "Blog",
+            "item": "https://tdr.libre.org.ar/blog/"
+          },
+        
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+          
+          
+          {
+            "@type": "ListItem",
+            "position":  3 ,
+            "name": "5 How To Make A Waveguide Antenna Description Of Our Workspace",
+            "item": "https://tdr.libre.org.ar/blog/5-how-to-make-a-waveguide-antenna-description-of-our-workspace/"
+          },
+        
+      
+    
+  }
+</script>
+
+
+
+
+
+
+
+  <meta name="theme-color" content="#bc8fd6">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://tdr.libre.org.ar/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://tdr.libre.org.ar/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://tdr.libre.org.ar/favicon-16x16.png">
+  
+
+
+  
+
+</head>
+
+  
+
+<body class="blog single">
+  
+  
+<div class="header-bar fixed-top"></div>
+<header class="navbar fixed-top navbar-expand-md navbar-light">
+	<div class="container">
+		<input class="menu-btn order-0" type="checkbox" id="menu-btn">
+		<label class="menu-icon d-md-none" for="menu-btn"><span class="navicon"></span></label>
+		<a class="navbar-brand order-1 order-md-0 me-auto" href="https://tdr.libre.org.ar">TdR</a>
+		<button id="mode" class="btn btn-link order-2 order-md-4" type="button" aria-label="Toggle mode">
+			<span class="toggle-dark"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-moon"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg></span>
+			<span class="toggle-light"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sun"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg></span>
+		</button>
+		<ul class="navbar-nav fork-me order-3 order-md-5">
+			
+				<!-- <li class="nav-item">
+					<a class="nav-link" href="https://twitter.com/aaranxu"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-twitter"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg><span class="ms-2 visually-hidden">Twitter</span></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="https://github.com/aaranxu/adidoks"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg><span class="ms-2 visually-hidden">GitHub</span></a>
+				</li> -->
+			
+		</ul>
+		<div class="collapse navbar-collapse order-4 order-md-1">
+			<ul class="navbar-nav main-nav me-auto order-5 order-md-2">
+				
+					
+				
+				
+				
+					
+						<li class="nav-item blog active">
+							<a class="nav-link" href="https://tdr.libre.org.ar/blog/">English</a>
+						</li>
+					
+				
+			</ul>
+			<div class="break order-6 d-md-none"></div>
+			
+		</div>
+	</div>
+</header>
+
+
+
+  
+<div class="wrap container" role="document">
+  <div class="content">
+    <div class="row justify-content-center">
+      <div class="col-md-12 col-lg-10 col-xxl-14">
+        <article>
+          <div class="blog-header">
+            <h1>5. How to build a waveguide?</h1>
+            
+<p><small>Posted 2021-12-21 by <a class="stretched-link position-relative" href="https://tdr.libre.org.ar/authors/tdr/">TdR</a>&nbsp;&hyphen;&nbsp;<strong>11&nbsp;min read</strong></small><p>
+
+          </div>
+          <p class="lead">How to make a waveguide antenna & description of our workspace</p>
+          <h1>Workspace description</h1>
+<p>
+The physical space in which we work is a 3.5m x 4m room, where we have two work tables:    
+<ul>
+    <li>
+        One where we preparate the pipes and metal brackets.
+    </li>
+    <li>
+        another one where we have the device that holds the wires for welding.
+    </li>
+</ul>
+</p>
+<img src="https://i.imgur.com/gXzymOk.jpg" width="500">
+<img src="https://i.imgur.com/q1ku5VV.jpg" width="500">
+<h2>
+    <u>
+        Personal protective equipment:
+    </u>
+</h2>
+<ul>
+    <li>
+        Hearing protectors
+    </li>
+    <li>
+        Gloves
+    </li>
+    <li>
+        Goggles
+    </li>
+    <li>
+        Masks
+    </li>
+    <li>
+        Work clothes
+    </li>
+</ul>
+<h2>
+    Production process with advanced materials and tools
+</h2>
+<h2>
+    Mark Metal Brackets
+</h2>
+<h4>
+    <u>
+        Workspace:
+    </u>
+</h4>
+<p>
+    For this process we use a table and a wooden block that helps us to make the marking with a custom-made template and then drill the  <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Plano%20Soporte-v3.svg">metal brackets.</a>
+</p>
+<h4>
+    <u>
+        For this process we need:    
+    </u>
+</h4>
+<ul>
+    <li>
+        Firm table
+    </li>
+    <li>
+        Wooden block
+    </li>
+    <li>
+        Perforation template
+    </li>
+    <li>
+        2mm thick metal sheet of 50mm x 80mm with a 90º fold of 50mm x 50mm
+    </li>
+    <li>
+        Marking point
+    </li>
+    <li>
+        Hammer 
+    </li>
+</ul>
+<h4>
+    <u>
+        How to do it?
+    </u>
+</h4>
+<p>
+    We use the work table with a wooden block that holds the metal plate to mark it, supporting the template to make the perforations on it.
+</p>
+<img src="https://i.imgur.com/ttwx4Xp.jpg" width="250">
+<img src="https://i.imgur.com/qqn3m3w.jpg" width="229">
+<p>
+    With the help of the template we proceed to mark the plate with a marking point and hammer.
+</p>
+<p>
+    <mark>   If you do not have the resources to create such a template, please visit the following 
+<a 
+href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Marking%20supports.pdf">link.</a>   </mark>
+</p>
+<img src="https://i.imgur.com/iICJJL1.jpg" width="250">
+<h4>
+    <u>
+        Recommendations:
+    </u>
+</h4>
+<p>
+    To avoid problems with the alignment of the antennas it is necessary that the template is aligned with the bracket.
+</p>
+<h2>
+    Drilling of metal brackets
+</h2>
+<h4>
+    <u>
+        Workspace:
+    </u>
+</h4>
+<p>
+    We use the central work table with the bench drill, and the template designed for this purpose.
+</p>
+<h4>
+    <u>
+        For this process we need:  
+    </u>
+</h4>
+<ul>
+    <li>
+       6mm wick
+    </li>
+    <li>
+        Round and flat file (to remove burrs)
+    </li>
+    <li>
+        Bench drill
+    </li>
+    <li>
+        Bench vise
+    </li>
+</ul>
+<h4>
+    <u>
+        How to do it?
+    </u>
+</h4>
+<p>
+    With the metal plates marked, we proceed to drill them with the bench drill.
+    Once the holes have been drilled, we file off the burrs.
+</p> 
+<img src="https://i.imgur.com/Uk10gMI.jpg" width="250">
+<img src="https://i.imgur.com/v7XmteS.jpg" width="250">
+<img src="https://i.imgur.com/a5hBm64.jpg" width="250">
+<img src="https://i.imgur.com/hnJvwl5.jpg" width="250">
+<h4>
+    <u>
+        Recommendations:
+    </u>
+</h4> 
+<p>
+    It is advisable to use a wooden dowel that the drill bit can hold and allow the metal bracket to rest on it for drilling.
+<p>It is also advisable not to take too long when drilling to avoid damaging the drill bit, as it gets very hot due to friction. It is also recommended to use low speed when drilling metals.</p>
+<p><mark>If a bench drill is not available, the brackets can be drilled with a hand drill.
+</mark></p>
+</p>
+<h2>
+    Drilling and tinning of the waveguide
+</h2>
+<h4>
+    <u>
+        Workspace:
+    </u>
+</h4>
+<p>
+    For this task, we use the central workbench, with the bench drill.
+</p>
+<h4>
+    <u>
+      For this process we need:   
+    </u>
+</h4>
+<ul>
+    <li>
+        Bench drill
+    </li>
+    <li>
+        Induction welder
+    </li>
+    <li>
+        Tin
+    </li>
+</ul>
+<h4>
+    <u>
+       How to do it?
+    </u>
+</h4>
+<p>
+    With the 130mm iron pipe we proceed to prepare the workbench to drill the waveguide.
+</p>
+<img src="https://i.imgur.com/GhNqUXl.jpg" width="250">
+<p>
+With the help of the <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/MOLDE%20DE%20PERFORACION%20GUIA%20DE%20ONDAS-v2.FCStd">drilling mold.</a>. 
+</p> 
+<img src="https://i.imgur.com/5j43Whh.jpg" width="250">
+<p>
+    Once the pipe is drilled we tin around the holes.
+</p>
+<img src="https://i.imgur.com/DWT8PUM.jpg" width="300">
+<p>
+    <mark> If you do not have these tools, you can perform the procedure with other more basic tools. To find out how, visit the following
+<a 
+href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Drilling%20and%20tinning%20of%20waveguide%20holes.pdf">link  </a></mark>
+</p>
+<h4>
+    <u>
+        Recommendations:
+    </u>
+</h4>
+<p>
+    It is important that the holes in the waveguide are aligned with the holes in the bracket, as this will affect the alignment of the antenna.
+</p>
+<h2>
+    Trimming edges to give circular shape to the metal bracket
+</h2>
+<h4>
+    <u>
+        Workspace:
+    </u>
+</h4>
+<p>
+   We use the central table of the workspace.
+</p>
+<h4>
+    <u>
+      For this process we need:  
+    </u>
+</h4>
+<ul>
+    <li>
+        Veneer cutter
+    </li>
+    <li>
+        Lime
+    </li>
+</ul>
+<h4>
+    <u>
+        How to do it?
+    </u>
+</h4>
+<p>
+    The waveguide pipe is used as a template to mark the brackets.
+    Then with the sheet metal cutter, following the marks, the rounded shape is given.
+</p>
+<img src="https://i.imgur.com/ra1M4Wp.jpg" width="200">
+<img src="https://i.imgur.com/Ul3tYHn.jpg" width="250">
+<img src="https://i.imgur.com/Xw1oF1h.jpg" width="250">
+<h4>
+    <u>
+        Recommendations:
+    </u>
+</h4>
+<p>
+    Use personal safety elements, in this case gloves.
+</p>
+<h2>
+    Welding brackets
+</h2>
+<h4>
+    <u>
+        Workspace:
+    </u>
+</h4>
+<p>
+    We use the work table, with a plate to protect the table from sparks falling during welding.
+</p>
+<h4>
+    <u>
+      For this process we need:  
+    </u>
+</h4>
+<ul>
+    <li>
+        Sheet metal
+    </li>
+    <li>
+        Inverter welder
+    </li>
+    <li>
+        Electrodes E-6013 (or compatible)
+    </li>
+    <li>
+        Bench vise
+    </li>
+    <li>
+        Pipe and bracket
+    </li>
+    <li>
+        Welding or leather gloves
+    </li>
+    <li>
+        Protective mask
+    </li>
+</ul>
+<h4>
+    <u>
+        How to do it?
+    </u>
+</h4>
+<p>
+    With the bracket clamped to the mortise by its perforated side, we place the waveguide with the perforations facing downwards and one of them facing the rounded side of the bracket. 
+</p>
+<img src="https://i.imgur.com/03QkQWv.jpg" width="250">
+<h4>
+    <u>
+        Recommendations:
+    </u>
+</h4>
+<p>
+    It is very important to use eye protection, the masks used must be appropriate for electric welders.
+</p>
+<h2>
+    Grinding and puttying
+</h2>
+<h4>
+    <u>
+        Workspace:
+    </u>
+</h4>
+<p>
+    We use the central table of the workshop with the bench vise in place.
+</p>
+<h4>
+    <u>
+      For this process we need:  
+    </u>
+</h4>
+<ul>
+    <li>
+        Bench vise
+    </li>
+    <li>
+        Grinder
+    </li>
+    <li>
+        Grinding disc
+    </li>
+    <li>
+        Waveguide with welded brackets
+    </li>
+</ul>
+<h4>
+    <u>
+       How to do it?
+    </u>
+</h4>
+<p>
+    Holding the waveguide firmly with the clamp, we remove the excess solder from the bracket and the waveguide.
+</p>
+<img src="https://i.imgur.com/kmyraO5.jpg" width="250">
+<h4>
+    <u>
+        Cautions:
+    </u>
+</h4>
+<p>
+<p>Use personal protection elements, in this case glasses, gloves, hearing protection and work clothes that cover the whole body, so that the metal shavings do not harm us. Also, work with the corresponding ventilation.</p>
+</p>
+<h2>
+    Antenna painting
+</h2>
+<h4>
+    <u>
+        Workspace:
+    </u>
+</h4>
+<p>
+    The painting machine is used in a spray booth or outdoors, since the working space inside the workspace is very small, and the machine sprays a large amount of paint.
+</p>
+<h4>
+    <u>
+      For this process we need:   
+    </u>
+</h4>
+<ul>
+    <li>
+        High resistance synthetic paint.
+    </li>
+    <li>
+        Painting machine.
+    </li>
+    <li>
+        Diluent.
+    </li>
+</ul>
+<h4>
+    <u>
+       How to do it?
+    </u>
+</h4>
+<p>
+   To use the machine for painting, the paint must first be diluted so that it is sufficiently liquid to be sprayed by the machine.
+    For drying, we use a hanging device where they can remain for the necessary time, without hindering the work in the rest of the workshop, until the drying process is finished.
+</p>
+<p>
+    <mark>In case you do not have a painting machine, this procedure can be done with a brush. </mark>
+</p>
+<img src="https://i.imgur.com/HRpBZ2O.jpg" width="300">
+<img src="https://i.imgur.com/QMW2gVO.jpg" width="250">
+<hr>
+<h2>
+    Pigtail cable assembly
+</h2>
+<h4>
+    <u>
+        Workspace:
+    </u>
+</h4>
+<p>
+    This part of the production is carried out on a table free of metal filings or shavings.
+</p>
+<img src="https://i.imgur.com/ROP7Pib.jpg" width="250">
+<img src="https://i.imgur.com/F7tCu67.jpg" width="250">
+<p>
+    We fit the SMA RP male connectors
+</p>
+<img src="https://i.imgur.com/rShLDTP.jpg" width="250">
+<img src="https://i.imgur.com/ezeSEGo.png" width="250">
+<p>
+    To show how the process works, we share these explainer videos:
+<ul>
+    <li>
+        <a 
+href="https://player.vimeo.com/video/780569067?h=7d256afc33">Assembly part 1</a>
+    </li>
+    <li>
+        <a href="https://player.vimeo.com/video/780568264?h=076a3a0531">Assembly part 2</a>
+    </li>
+</ul>
+<p>
+    To complete the process, they are crimped and heat-shrunk. 
+</p>
+<img src="https://i.imgur.com/ZACdT5x.png" width="250">
+<img src="https://i.imgur.com/HNBOqjr.jpg" width="250">
+<p>
+    At the other end of the wire, we strip the sheath to obtain the pin that will illuminate the waveguide.
+	We recommend an 11.7mm long pin.
+</p>
+<img src="https://i.imgur.com/ROP7Pib.jpg" width="250">
+<hr>
+<h2>
+    Solder wires to the pipe
+</h2>
+<h4>
+    <u>
+        Workspace:
+    </u>
+</h4>
+<p>
+    This process can be performed on the auxiliary workbench, where we have installed a device with slots to hold the cables. 
+</p>
+<h4>
+    <u>
+      For this process we need:  
+    </u>
+</h4>
+<ul>
+    <li>
+        Tin
+    </li>
+    <li>
+        Vesuvius welder
+    </li>
+    <li>
+        5mm (3/8") segment of 8mm (3/8") aluminum pipe
+    </li>
+    <li>
+        Pigtail cable x2
+    </li>
+</ul>
+<h4>
+    <u>
+        How to do it?
+    </u>
+</h4>
+<p>
+    We tin the perforations previously brushed, then we take the pigtail cable, place it in the perforation and solder the mesh to the pipe (waveguide).
+</p>
+<img src="https://i.imgur.com/Yfhxqin.jpg" width="250">
+<p>
+    <mark>If you do not have a Vesuvius welder, this work can be carried out with a Zinguero welder.</mark>
+</p>
+<h4>
+    <u>
+        Recommendations:
+    </u>
+</h4>
+<p>
+    We must make sure that the soldering iron is very hot and clean, in order to minimize the contact time and thus not burn the cable sheath.
+</p>
+<h2>
+   Portachains rings printing
+</h2>
+<h4>
+    <u>
+        Workspace:
+    </u>
+</h4>
+<p>
+    We use a piece of furniture where the 3D printer is positioned, sheltered from the hostility of the workshop.
+</p>
+<img src="https://i.imgur.com/cdfA0QW.jpg" width="350">
+<h4>
+    <u>
+        For this process we need: 
+    </u>
+</h4>
+<ul>
+    <li>
+        Designs made in Freecad
+    </li>
+    <li>
+        3D Printer
+    </li>
+    <li>
+        Petg Filament
+    </li>
+</ul>
+<h4>
+    <u>
+        How to do it?  
+    </u>
+</h4>
+<p>
+    We laminate the designs (.stl) made in Freecad to obtain them in .gcode format in this case, we store them in a memory card that we insert in the 3D printer to print them.
+</p>
+<h2>
+    Fitting portachains rings
+</h2>
+<h4>
+    <u>
+        Workspace:
+    </u>
+</h4>
+<p>    
+    We use the auxiliary table to place the portachain.
+</p>
+<h4>
+    <u>
+       For this process we need: 
+    </u>
+</h4>
+<ul>
+    <li>
+         Portachain rings   
+    </li>
+    <li>
+        Antenna with welded cables
+    </li>
+    <li>
+        3/8" aluminum pipe
+    </li>
+</ul>
+<h4>
+    <u>
+        How to do it?
+    </u>
+</h4>
+<p>
+    The larger ring is inserted through the waveguide, until it reaches the place where the cable is located.
+ Then attach the rear carrier, using a 5mm segment of 3/8" aluminum pipe, passing it through the cable and bringing it up to the two carriers together, and crimping it to hold the cables securely.
+</p>
+<h2>
+    Testing
+</h2>
+<h4>
+    <u>
+        Workspace:
+    </u>
+</h4>
+<p>
+    This work can be performed on the device created to hold the cables.
+</p>
+<h4>
+    <u>
+        For this process we need: 
+    </u>
+</h4>
+<ul>
+    <li>
+        <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/About%20RC%20Antenna%20SWR%20Meter.pdf">RC Antenna SWR Meter.</a>
+    </li>
+</ul>
+<h4>
+    <u>
+        How to do it?
+    </u>
+</h4>
+<p>
+    First of all, an visual inspection is carried out in order to arrange the two pins at 90 degrees.
+    Once this procedure is done, one of the wires is connected to the RC antenna meter and the waves emitted by that chain are measured first, and then those of the other one.
+</p>
+<img src="https://i.imgur.com/8tGsiFz.jpg" width="250">
+<h2>
+    Placing covers and finishing
+</h2>
+<h3>
+    <u>
+        For this process we need: 
+    </u>
+</h3>
+<ul>
+    <li>
+        Plastic lid 
+    </li>
+    <li>
+        Assembled waveguide
+    </li>
+</ul>
+<p>
+    To protect the illuminators, the waveguide is closed with a plastic cover and silicone sealant to prevent leaks.
+</p>
+<h2>
+Finished antenna    
+</h2>
+<img src="https://i.imgur.com/aEgRFwI.jpg" width="400">
+<p>
+	<h2>
+		TdR is not responsible for possible damages caused by performing these procedures using this informative material.
+		</h2>
+		</p>
+
+        </article>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  
+    
+<footer class="footer text-muted">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 order-last order-lg-first">
+				<ul class="list-inline">
+					
+						<li class="list-inline-item"><img src="https://user-images.githubusercontent.com/104506596/191294248-aa22ad16-f991-412b-8d32-99e27614e7f2.png" alt="Logo NLnet: abstract logo of four people seen from above"  height="100"> <img src="https://nlnet.nl/image/logos/technologycommonstrust.svg"  height="100"> <p>This project was funded through the <strong> <a href="https://nlnet.nl/useroperated/">User-Operated Internet</a> </strong> fund, a fund established by <a href="https://nlnet.nl">NLnet</a> made possible by financial support from the <a href="https://pkt.cash" rel="nofollow">PKT Community</a> <a href="https://pkt.cash/network-steward" rel="nofollow">The Network Steward</a> and stichting <a href="https://technologycommons.org">Technology Commons Trust</a>.</p> <p>Saludamos a les amigues de <a href="https://altermundi.net/">AlterMundi.</a></p> <p>Files of the desings for <a href="https://github.com/TecnologiadeRaiz/LoPALiR">download.</a></p> <p>Contact <a href="tecnologiaderaiz@disroot.org">tecnologiaderaiz@disroot.org</a> <br> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.</p></li>
+					
+				</ul>
+			</div>
+			<div class="col-lg-8 order-first order-lg-last text-lg-end">
+				<ul class="list-inline">
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+
+  
+
+  
+<script type="text/javascript" src="https://tdr.libre.org.ar/js/main.js" defer></script>
+
+  
+</body>
+</html>

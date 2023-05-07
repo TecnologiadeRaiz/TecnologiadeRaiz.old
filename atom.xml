@@ -1,0 +1,2581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <title>TdR</title>
+    <subtitle>Tecnología de Raíz</subtitle>
+    <link href="https://tdr.libre.org.ar/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://tdr.libre.org.ar"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-02-22T00:00:00+00:00</updated>
+    <id>https://tdr.libre.org.ar/atom.xml</id>
+    <entry xml:lang="es">
+        <title>7. Partes plásticas</title>
+        <published>2023-02-22T00:00:00+00:00</published>
+        <updated>2023-02-22T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/7-partes-plasticas/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/7-partes-plasticas/</id>
+        <content type="html">&lt;h1&gt;
+    Partes plásticas
+&lt;&#x2F;h1&gt;
+&lt;p&gt;
+&lt;p&gt;La posibilidad de acceder a la impresion 3d como recurso nos habilito a poder crear nuestros propios moldes (matriceria) para facilitar el proceso de producción, así como construir insumos para las guías de ondas.&lt;&#x2F;p&gt;
+&lt;p&gt;En principio, las partes plásticas surgieron de la necesidad de sustituir los regatones de plástico utilizados como tapas por tapas plásticas impresas en 3D.&lt;&#x2F;p&gt;
+&lt;p&gt;Viendo el potencial de las impresiones 3D diseñamos un prototipo de portachain para sostener los cables de la antena, y también moldes para facilitar la perforacion de los caños de las guías de ondas.
+El portachain actual nos permite reemplazar procedimientos como soldadura o resinado, acortando los tiempos de producción y los costos también. El proceso hasta llegar a estos diseños y los diferentes prototipos previos están registrados &lt;a href=&quot;https:&#x2F;&#x2F;tdr.libre.org.ar&#x2F;6-prototipado&quot;&gt;acá&lt;&#x2F;a&gt;
+Este proceso de investigación implicó familiarizarnos con las herramientas de diseño en Freecad y prácticas con la impresora. Actualmente estamos por acceder a una capacitación de la UTN (Universidad Técnica Nacional) para perfeccionar las impresiones.
+&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+&lt;hr&gt;
+&lt;h3&gt;
+    &lt;u&gt;
+        Tapas
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;
+Nuestro primer &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;main&#x2F;Partes%20plasticas&#x2F;Tapas&#x2F;TAPA-v1.FCStd&quot;&gt;diseño&lt;&#x2F;a&gt; nos permitió mejorar el funcionamiento de la antena, ya que los regatones plásticos que usábamos como tapa interferían en la señal de las guías de ondas.
+   &lt;&#x2F;p&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;B5QyScj.png&quot; width=300&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;qcSYKYG.jpg&quot; width=130&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;USdhI9N.jpg&quot; width=230&gt;
+    &lt;br&gt;
+&lt;h3&gt;
+    &lt;u&gt;
+        Molde de perforación
+    &lt;&#x2F;u&gt; 
+&lt;&#x2F;h3&gt;
+&lt;p&gt;
+Este &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;tree&#x2F;main&#x2F;Partes%20plasticas&#x2F;Molde%20de%20perforacion&quot;&gt;diseño&lt;&#x2F;a&gt; nos aporta precisión a la hora de realizar las perforaciones en la guía de ondas, agilizando el proceso de producción.
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;wIoHxUG.jpg&quot; width=230&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;3hOE8YZ.png&quot; width=330&gt;
+&lt;&#x2F;p&gt;
+&lt;br&gt;&lt;&#x2F;p&gt;
+&lt;h3&gt;
+    &lt;u&gt;
+        Portachain
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;
+La posibilidad de diseñar &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;tree&#x2F;main&#x2F;Partes%20plasticas&#x2F;PORTACHAIN&quot;&gt;estas piezas&lt;&#x2F;a&gt; nos permitió optimizar la forma de sujetar los cables, que se presentaba como un desafìo en los prototipos anteriores, significando un costo y tiempos de producción más alto.
+&lt;p&gt;El primer diseño resultaba frágil, dado que el material que usábamos, filamento PLA, no era adecuado para las antenas, ya que se encuentran expuestas al sol, la lluvia y el viento.&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;eRYq3qk.jpg&quot; width=200&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;hosCe4W.jpg&quot; width=200&gt;
+&lt;p&gt;La segunda versión de portachain fue diseñada teniendo en cuenta el aumento de espesor de la pieza para darle más solvencia, y el material, que fue reemplazado por filamento PETG.&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;sjzqKpC.jpg&quot; width=200&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;dSYESlO.jpg&quot; width=200&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;M4A7HxO.jpg&quot; width=170&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;zUYhU1E.jpg&quot; width=230&gt;
+&lt;p&gt;Los primeros diseños no nos permitían sostener los cables de la forma esperada.&lt;&#x2F;p&gt;
+&lt;p&gt;Luego descubrimos que para darle terminación y un mejor agarre, debíamos anexar al portachain un aro de caño de aluminio de 3&#x2F;8 crimpeado, aportandole así la firmeza esperada para sujetar los cables.&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;I1uTTNk.jpg&quot; width=200&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;AWqCxcW.jpg&quot; width=200&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;p0yf3wo.jpg&quot; width=200&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;huKXoWX.png&quot; width=330&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;LlzesG8.png&quot; width=330&gt;
+&lt;h3&gt;
+    &lt;u&gt;
+        Pintura
+    &lt;&#x2F;u&gt;
+    &lt;&#x2F;h3&gt;
+&lt;p&gt;Para darle terminación a las antenas, utilizamos pintura sintética.
+Nuestra primera experiencia fue utilizando una pintura para automóviles sobre una capa de pintura antióxido.
+Notamos que la misma tenía caracterísiticas como:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Ser muy resistente
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Más espesor
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Mayor valor
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Encontramos dificultades para lograr la dilusión justa para utilizarla, y no lograbamos una buena terminación.&lt;&#x2F;p&gt;
+&lt;p&gt;Es por eso que decidimos probar con pintura &amp;quot;tres en uno&amp;quot; que tiene características como:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Convertidor (trabaja sobre las partes oxidadas)
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Previene el óxido
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Esmalta las piezas
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Por estas características y la facilidad para diluirse y su poder cubritivo, actualmente estamos utilizando esta pintura como revestimiento para nuestros modelos.
+Para más información sobre el procedimiento, entrá &lt;a href=&quot;https:&#x2F;&#x2F;tdr.libre.org.ar&#x2F;5-como-hacer-una-antena-guia-de-ondas-descripcion-de-nuestro-espacio-de-trabajo&#x2F;&quot;&gt;acá&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;h3&gt;
+    &lt;u&gt;
+        Antena terminada con sus partes plásticas
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h3&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;m1Qy7DX.jpg&quot; width=170&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;hki5apn.jpg&quot; width=300&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>7.Plastic Parts</title>
+        <published>2023-02-22T00:00:00+00:00</published>
+        <updated>2023-02-22T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/blog/7-plastic-parts/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/blog/7-plastic-parts/</id>
+        <content type="html">&lt;h1&gt;
+    Plastic parts
+&lt;&#x2F;h1&gt;
+&lt;p&gt;
+&lt;p&gt;The possibility of accessing 3D printing as a resource enabled us to create our own molds (tooling) to facilitate the production process, as well as to build inputs for the waveguides.&lt;&#x2F;p&gt;
+&lt;p&gt;Initially, the plastic parts arose from the need to replace the plastic lids used as lids with 3D printed plastic lids.&lt;&#x2F;p&gt;
+&lt;p&gt;Seeing the potential of 3D printing, we designed a prototype of a portachain to hold the antenna cables, as well as molds to facilitate the drilling of the waveguide pipes.
+The current portachain allows us to replace procedures such as welding or resining, shortening production times and costs as well. The process to arrive at these designs and the different previous prototypes are recorded  &lt;a href=&quot;https:&#x2F;&#x2F;tdr.libre.org.ar&#x2F;6-prototipado&quot;&gt;here&lt;&#x2F;a&gt;.
+This research process involved familiarizing ourselves with the design tools in Freecad and practice with the printer. Currently we are about to access a training course at the UTN (National Technical University) to perfect the prints.&lt;&#x2F;p&gt;
+&lt;hr&gt;
+&lt;h3&gt;
+    &lt;u&gt;
+        Lids
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;Our first &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;main&#x2F;Partes%20plasticas&#x2F;Tapas&#x2F;TAPA-v1.FCStd&quot;&gt;design&lt;&#x2F;a&gt; allowed us to improve the performance of the antenna, since the plastic strips that we used as a cover interfered with the waveguide signal.&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;B5QyScj.png&quot; width=300&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;qcSYKYG.jpg&quot; width=130&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;USdhI9N.jpg&quot; width=230&gt;
+    &lt;br&gt;
+&lt;h3&gt;
+    &lt;u&gt;
+        Drilling mold
+    &lt;&#x2F;u&gt; 
+&lt;&#x2F;h3&gt;
+&lt;p&gt;This &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;tree&#x2F;main&#x2F;Partes%20plasticas&#x2F;Molde%20de%20perforacion&quot;&gt;design&lt;&#x2F;a&gt; gives us precision when drilling holes in the waveguide, speeding up the production process.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;wIoHxUG.jpg&quot; width=230&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;3hOE8YZ.png&quot; width=330&gt;&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;h3&gt;
+    &lt;u&gt;
+        Portachain
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;
+The possibility of designing &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;tree&#x2F;main&#x2F;Partes%20plasticas&#x2F;PORTACHAIN&quot;&gt;these parts&lt;&#x2F;a&gt; allowed us to optimize the way of fastening the cables, which was a challenge in the previous prototypes, meaning higher cost and production times.
+&lt;p&gt;The first design was fragile because the material we used, PLA filament, was not suitable for the antennas, as they are exposed to sun, rain and wind.&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;eRYq3qk.jpg&quot; width=200&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;hosCe4W.jpg&quot; width=200&gt;
+    &lt;&#x2F;p&gt;
+     &lt;p&gt;
+    The second version of the portachain was designed taking into account the increased thickness of the part to give it more solvency, and the material, which was replaced by PETG filament.
+    &lt;&#x2F;p&gt;   
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;sjzqKpC.jpg&quot; width=200&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;dSYESlO.jpg&quot; width=200&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;M4A7HxO.jpg&quot; width=170&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;zUYhU1E.jpg&quot; width=230&gt;
+&lt;p&gt;
+    The first designs did not allow us to hold the cables as expected.
+&lt;p&gt;Then we realized that in order to give it a better finish and a better grip, we had to attach a 3&#x2F;8 crimped aluminum pipe ring to the cable holder, thus providing the expected firmness to hold the cables.&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;I1uTTNk.jpg&quot; width=200&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;AWqCxcW.jpg&quot; width=200&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;p0yf3wo.jpg&quot; width=200&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;huKXoWX.png&quot; width=330&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;LlzesG8.png&quot; width=330&gt;
+&lt;h3&gt;
+    &lt;u&gt;
+        Paint
+    &lt;&#x2F;u&gt;
+    &lt;&#x2F;h3&gt;
+&lt;p&gt;To finish the antennas, we use synthetic paint.
+Our first experience was to use an automotive paint over a layer of anti-rust paint.
+We noticed that it had the following characteristics:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Being very resistant
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Thicker    
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        More value
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;We found it difficult to achieve the right dilution to use it, and we couldn&#x27;t get a good finish.
+That&#x27;s why we decided to try anti-rust paint which has characteristics such as:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Converter (works on the rusted parts)
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Prevents rust
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Enamels the parts
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Due to these characteristics and the ease of dilution and its covering power, we are currently using this paint as a coating for our models.
+For more information about the procedure, click &lt;a href=&quot;https:&#x2F;&#x2F;tdr.libre.org.ar&#x2F;blog&#x2F;5-how-to-make-a-waveguide-antenna-description-of-our-workspace&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;  
+&lt;br&gt;
+&lt;h3&gt;
+    &lt;u&gt;
+        Finished antenna with plastic parts
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h3&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;m1Qy7DX.jpg&quot; width=170&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;hki5apn.jpg&quot; width=300&gt;
+&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>6. Prototipo de guía de ondas</title>
+        <published>2023-01-24T00:00:00+00:00</published>
+        <updated>2023-01-24T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/6-prototipado/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/6-prototipado/</id>
+        <content type="html">&lt;h1&gt;
+    Prototipo de guía de ondas
+&lt;&#x2F;h1&gt;
+&lt;p&gt;
+En este material mostraremos los diferentes modelos de antenas que fuimos desarrollando hasta llegar al prototipo actual.
+Describiremos algunas caracteristicas de cada antena, y un grafico de sus testeos realizado con un &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;tree&#x2F;main&#x2F;Mediciones&quot;&gt;programa&lt;&#x2F;a&gt; diseñado para tal fin en una distancia de 1,1 km.
+&lt;p&gt;Nuestro escenario de pruebas se encuentra entre un pino muy alto en la localidad de Casa Grande y la parte alta de una casa en la localidad de Molinari.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;CjLMMTv.jpg&quot; width=350&gt;&lt;br&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;3ujyUQH.png&quot; width=350&gt;&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    &lt;u&gt;
+        Prototipo 1
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h2&gt;
+&lt;h3&gt;
+    Version 1:
+&lt;&#x2F;h3&gt;
+&lt;p&gt;
+En la busqueda de una antena tipo guía de ondas, desarrollamos este prototipo; uno de los aspectos en los que trabajamos es la creación de un soporte para la antena y el montaje de los cable sobre la guía.
+&lt;&#x2F;p&gt;
+&lt;p&gt;
+&lt;b&gt;
+   Un primer intento de soporte fue este:
+&lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;czlqfxj.jpg&quot; width=350&gt;
+&lt;p&gt;
+&lt;b&gt;
+   Aprovechando un soporte existente, soldamos la guía de ondas al mismo.
+&lt;&#x2F;b&gt;
+&lt;p&gt;En este caso utilizamos un caño de 38mm de diámetro.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Ventajas:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt; 
+&lt;p&gt;
+La forma de sostener los cables en este prototipo era realizar una ranura en la guía de ondas y con ese material, sumando un caño de cobre, sostener el cable. Lo cual simplifica el montaje.
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Inconvenientes:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+Por las caracteristicas del material, su peso y su forma, encontramos poco funcional este diseño de soporte; esto nos llevo a repensar como usar el material y la forma del soporte.
+&lt;p&gt;La ranura genera pérdida de radiación.&lt;&#x2F;p&gt;
+&lt;p&gt;El diámetro del caño &amp;quot;corta&amp;quot; el paso de las frecuencias más bajas.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;KIhxWMe.png&quot; width=450&gt;
+&lt;hr&gt;
+&lt;h3&gt;
+    Versión 2:
+&lt;&#x2F;h3&gt;
+&lt;p&gt;
+&lt;b&gt;
+   Probamos modificar la longitud de la guía de ondas, con un caño más largo.
+&lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;TQav5AQ.jpg&quot; width=300&gt;
+&lt;p&gt;
+   Modificamos en esta versión la forma de sujetar los cables, soldando a la guía de ondas un caño de cobre, crimpeandolo, y sellandolo con termocontraible.
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Ventajas:
+	&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+   Robustez en el agarre
+precisión en la posición final de los iluminadores.
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Inconvenientes:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+   Utilizamos una soldadora autógena (oxígeno y acetileno) lo que aumenta la complejidad del taller y la dificultad para la soldadura.
+&lt;p&gt;También se agrega la posibilidad de generar &amp;quot;tensiones de juntura&amp;quot; entre los materiales, que podrían afectar el desempeño de la antena.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;NSQup1n.png&quot; width=450&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+    &lt;u&gt;
+       Prototipo 2 Cónica:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h2&gt;
+&lt;h3&gt;
+    Versión 1:
+&lt;&#x2F;h3&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        En esta versión, volvimos a sujetar los cables como en la versión anterior, soldando a la guía de ondas un caño de cobre, crimpeandolo, y sellandolo con termocontraible.
+    &lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;lk9GKrA.jpg&quot; width=350&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Ventajas:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+    Notamos que agregarle el suplemento cónico mejora su rendimiento.
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Inconvenientes:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+    Para este prototipo, utilizamos el soporte grande, que es muy pesado. Lo consideramos poco funcional.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;edUjNmK.png&quot; width=250&gt; 
+&lt;h3&gt;
+    Versión 2:
+&lt;&#x2F;h3&gt;
+&lt;p&gt;
+   &lt;b&gt;
+       En este prototipo, acortamos el largo del caño, de 42 mm de diámetro interno, sumandole una terminación cónica realizada con chapa y soldada.
+&lt;&#x2F;b&gt;
+&lt;p&gt;Para sostener los cables, diseñamos un agarre tipo &amp;quot;puente&amp;quot; con chapa soldado a la guía de ondas. &lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;GUXQlql.jpg&quot; width=250&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;fRiHOqY.jpg&quot; width=350&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Ventajas:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt; 
+&lt;p&gt;
+&lt;p&gt;En relación al soporte al ser más liviano y compacto permite trasladarlo con más facilidad, siendo además más económico por tener menos material.&lt;&#x2F;p&gt;
+&lt;p&gt;A esa versión de soporte, le hicimos perforaciones para aprovechar las medidas de las &amp;quot;u roscadas&amp;quot; que se consiguen con facilidad en ferreterías creando un soporte adaptable a dos medidas de caño. Esto le aporta accesibilidad al producto.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;p&gt;
+   Con este diseño, estamos utilizando el soporte como tapa de la guía de ondas.El primer prototipo de soporte soldado como tapa de la antena, tenía 10 cm de largo. 
+&lt;p&gt;Luego elegimos dejar lugar sólo para dos medidas de &amp;quot;u roscada&amp;quot;, dando así la posibilidad de completar el soporte de acuerdo al caño donde se agarre.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Inconvenientes:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt; 
+&lt;p&gt;
+   En este prototipo, encontramos muchas dificultades para soldar los cables a la guía de ondas. Puede observarse el la gráfica de mediciones como el chain 2 (en verde) con fallas en la soldadura de la malla, tiene menor ganancia.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;N9i2lSI.jpg&quot; width=350&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;W4uxnWd.jpg&quot; width=350&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;dLqFD0W.png&quot; width=450&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+    &lt;u&gt;
+       Prototipo 3
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        En esta versión, volvimos a probar sujetar los cables con el modelo &quot;puente&quot; de chapa doblada, en un prototipo de guía de ondas más corto, con diámetro interno de 44mm, sin cono.
+    &lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;JAb67DR.jpg&quot; width=350&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;XiLoTFW.jpg&quot; width=350&gt;
+&lt;p&gt;
+   A pesar de obtener muy buenos resultados en el rendimiento de la antena, seguimos en la búsqueda de una forma de sujetar los cables más sencilla, conservando la longitud de la guía de ondas en el siguiente prototipo.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;vWS240q.png&quot; width=450&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Ventajas:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+    Obtuvimos buenos resultados en el rendimiento.
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Inconvenientes:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+   Dificultad para soldar la malla de los cables al caño 
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    &lt;u&gt;
+       Prototipo 4 Resina
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        En este prototipo, probamos sujetar los cables con una manguera de ø=1&#x2F;8 de pulgada , transparente, rellena con resina epoxi. 
+    &lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;mSNnPyS.jpg&quot; width=450&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Ventajas:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+    Los resultados en el rendimiento de la antena fueron buenos.
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Inconvenientes:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+   Fragilidad en la unión de los cables con la guía de ondas. Algunas pruebas se despegaron, quedando inutilizables.
+&lt;p&gt;Dificultad para remover los restos de resina en caso de necesitar reparación.&lt;&#x2F;p&gt;
+&lt;p&gt;Toxicidad del proceso y los residuos resultantes.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;YZvfxxt.png&quot; width=450&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+    &lt;u&gt;
+       Prototipo 5 Acople de partes plasticas
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        A través del &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;tree&#x2F;main&#x2F;Partes%20plasticas&quot;&gt;diseño&lt;&#x2F;a&gt; en &lt;a href=&quot;https:&#x2F;&#x2F;www.freecadweb.org&#x2F;&quot;&gt;Freecad&lt;&#x2F;a&gt;, logramos imprimir en 3d partes plásticas que permiten, acoplándose, sostener los cables de forma eficiente, rápida y duradera.
+    &lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;N9Dovy3.jpg&quot; width=450&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;7QY8NYF.png&quot; width=450&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Ventajas:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+   Simpleza de montaje.
+&lt;p&gt;Robustez y precisión en el agarre de los cables.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Inconvenientes:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+   Acceso a impresiones 3D.
+&lt;p&gt;Necesidad de desarrollar impermeabilización en la unión de las partes plásticas.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>6. Waveguide prototype</title>
+        <published>2023-01-24T00:00:00+00:00</published>
+        <updated>2023-01-24T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/blog/waveguide-prototype/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/blog/waveguide-prototype/</id>
+        <content type="html">&lt;h1&gt;
+    Prototyping
+&lt;&#x2F;h1&gt;
+&lt;p&gt;
+&lt;p&gt;We will describe some characteristics of each antenna, and a graph of their tests performed with a &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;tree&#x2F;main&#x2F;Mediciones&quot;&gt;program&lt;&#x2F;a&gt; specially designed equipment for this purpose in a distance of 1.1 km.&lt;&#x2F;p&gt;
+&lt;p&gt;Our test scenario is located between a very tall pine tree in the town of Casa Grande and the top of a house in the town of Molinari.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;CjLMMTv.jpg&quot; width=350&gt;&lt;br&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;3ujyUQH.png&quot; width=350&gt;&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    &lt;u&gt;
+        Prototype 1
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h2&gt;
+&lt;h3&gt;
+    Version 1:
+&lt;&#x2F;h3&gt;
+&lt;p&gt;
+In the search for a waveguide type antenna, we developed this prototype; one of the aspects we worked on is the creation of a support for the antenna and the assembly of the cables on the waveguide.
+&lt;&#x2F;p&gt;
+&lt;p&gt;
+&lt;b&gt;
+   An early attempt at support was this:
+&lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;czlqfxj.jpg&quot; width=350&gt;
+&lt;p&gt;
+&lt;b&gt;
+  Taking an existing support, we welded the waveguide to it.
+&lt;&#x2F;b&gt;
+ In this case we use a 38mm diameter pipe.
+&lt;&#x2F;p&gt;
+&lt;br&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Advantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt; 
+&lt;p&gt;
+The way to hold the cables in this prototype was to make a groove in the waveguide and with that material, adding a copper pipe, hold the cable. This simplifies the assembly.
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Disadvantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+Due to the characteristics of the material, its weight and its shape, we found this support design not very functional; this led us to rethink how to use the material and the shape of the support.
+&lt;p&gt;The slot generates radiation loss.&lt;&#x2F;p&gt;
+&lt;p&gt;The diameter of the pipe &amp;quot;cuts&amp;quot; the passage of lower frequencies.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;KIhxWMe.png&quot; width=450&gt;
+&lt;hr&gt;
+&lt;h3&gt;
+    Version 2:
+&lt;&#x2F;h3&gt;
+&lt;p&gt;
+&lt;b&gt;
+   We tried modifying the length of the waveguide, with a longer pipe.
+&lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;TQav5AQ.jpg&quot; width=300&gt;
+&lt;p&gt;
+   In this version, we modified the way of fastening the cables by soldering a copper pipe to the waveguide, crimping it, and sealing it with heat shrink.
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Advantages:
+	&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+   Robustness in the grip precision in the final position of the illuminators.
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Disadvantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+   We use an autogenous welder (oxygen and acetylene) which increases the complexity of the workshop and the difficulty of welding.
+&lt;p&gt;There is also the possibility of generating &amp;quot;joint stresses&amp;quot; between the materials, which could affect the performance of the antenna.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;NSQup1n.png&quot; width=450&gt;
+&lt;h2&gt;
+    &lt;u&gt;
+       Prototype 2 Conical:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h2&gt;
+&lt;h3&gt;
+    Version 1:
+&lt;&#x2F;h3&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        In this version, we reattached the cables as in the previous version, soldering a copper pipe to the waveguide, crimping it, and sealing it with heat shrink.
+    &lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;lk9GKrA.jpg&quot; width=350&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Advantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+    We observed that the addition of the conical supplement improves its performance.
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Disadvantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+    For this prototype, we used the large bracket, which is very heavy. We consider it not very functional.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;edUjNmK.png&quot; width=250&gt; 
+&lt;h3&gt;
+    Version 2:
+&lt;&#x2F;h3&gt;
+&lt;p&gt;
+   &lt;b&gt;
+       In this prototype, we shortened the length of the pipe, with an internal diameter of 42 mm, adding a conical end made of sheet metal and welded.
+&lt;&#x2F;b&gt;
+&lt;p&gt;To support the cables, we designed a &amp;quot;bridge&amp;quot; type grip with sheet metal welded to the waveguide. &lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;GUXQlql.jpg&quot; width=250&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;fRiHOqY.jpg&quot; width=350&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Advantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt; 
+&lt;p&gt;
+&lt;p&gt;In relation to the support, being lighter and more compact, it allows to move it more easily, being also more economical because it has less material.&lt;&#x2F;p&gt;
+&lt;p&gt;In this version of the support, we drilled holes to take advantage of the measures of the &amp;quot;threaded u&amp;quot; that are easily available in hardware stores, creating a support adaptable to two sizes of pipe. This provides accessibility to the product.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;p&gt;
+   With this design, we are using the bracket as the waveguide cover. The first prototype of the bracket welded as the antenna cover was 10 cm long. 
+&lt;p&gt;Then we chose to leave room for only two sizes of &amp;quot;threaded u&amp;quot;, thus giving the possibility to complete the bracket according to the pipe where it is attached.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Disadvantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt; 
+&lt;p&gt;
+   In this prototype, we found many difficulties in soldering the wires to the waveguide. It can be seen in the measurement graph as chain 2 (the green one) with failures in the soldering of the mesh, has lower gain.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;N9i2lSI.jpg&quot; width=350&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;W4uxnWd.jpg&quot; width=350&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;dLqFD0W.png&quot; width=450&gt;
+&lt;h2&gt;
+    &lt;u&gt;
+       Prototype 3
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        In this version, we retested attaching the wires with the bent sheet metal &quot;bridge&quot; model, on a shorter waveguide prototype, with 44mm internal diameter, without a cone.
+    &lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;JAb67DR.jpg&quot; width=350&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;XiLoTFW.jpg&quot; width=350&gt;
+&lt;p&gt;
+   Although we obtained very good results in antenna performance, we are still looking for a simpler way to attach the wires, preserving the length of the waveguide in the next prototype.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;vWS240q.png&quot; width=450&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Advantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+    We obtained good performance results.
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Disadvantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+   Difficulty in soldering the wire mesh to the pipe 
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    &lt;u&gt;
+       Prototype 4 Resin
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        In this prototype, we tested attaching the cables with a ø=1&#x2F;8 inch hose, transparent, filled with epoxy resin. 
+    &lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;mSNnPyS.jpg&quot; width=450&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Advantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+    Antenna performance results were good.
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Disadvantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+   Fragility at the junction of the cables with the waveguide. Some tests came unglued, making them unusable.
+&lt;p&gt;Difficulty in removing resin residues in case of need for repair.&lt;&#x2F;p&gt;
+&lt;p&gt;Toxicity of the process and the resulting residues.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;YZvfxxt.png&quot; width=450&gt;
+&lt;h2&gt;
+    &lt;u&gt;
+       Prototype 5 Coupling of plastic parts
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;
+    &lt;b&gt;
+        Through the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;tree&#x2F;main&#x2F;Partes%20plasticas&quot;&gt;design&lt;&#x2F;a&gt; in &lt;a href=&quot;https:&#x2F;&#x2F;www.freecadweb.org&#x2F;&quot;&gt;Freecad&lt;&#x2F;a&gt;, we were able to 3d print plastic parts that allow, by coupling, to hold the cables in an efficient, fast and durable way.
+    &lt;&#x2F;b&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;N9Dovy3.jpg&quot; width=450&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;7QY8NYF.png&quot; width=450&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Advantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+   Simple assembly.
+&lt;p&gt;Robustness and precision in cable gripping.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Disadvantages:
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+   Access to 3D printing.
+&lt;p&gt;Need to develop waterproofing at the junction of the plastic parts.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>2. Diseño de antena sectorial</title>
+        <published>2022-09-21T00:00:00+00:00</published>
+        <updated>2022-09-21T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/2-paso-a-paso-sectorial/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/2-paso-a-paso-sectorial/</id>
+        <content type="html">&lt;h1 id=&quot;una-idea-de-como-hacer-el-diseno-de-tu-antena-sectorial&quot;&gt;Una idea de cómo hacer el diseño de tu antena sectorial&lt;&#x2F;h1&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;Agradecemos a NlNet y Altermundi por hacer posible que este proyecto funcione 
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;En la búsqueda de un diseño de antena con óptima ganancia, &lt;em&gt;facilmente replicable&lt;&#x2F;em&gt;, retomamos el trabajo de investigación que &lt;strong&gt;AlterMundi&lt;&#x2F;strong&gt; comenzó y sostuvo para estimar dimensiones de la antena, utilizando un &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;6cfcefe5b7c623523bdbc38a3de3d6f52c728e81&#x2F;circular_waveguide_tuneado.ods&quot;&gt;calculador de Guías de Ondas&lt;&#x2F;a&gt;, adpatado para 5.8 Ghz por Nicolás Echaniz&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;q1iutf3.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;h3 id=&quot;esta-es-la-base-sobre-la-que-construimos-nuestras-experiencias-de-produccion-y-seguimos-ampliando-la-investigacion-en-tdr&quot;&gt;Esta es la base sobre la que construimos nuestras experiencias de producción y seguimos ampliando la investigación en  TDR.&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;&quot;&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Trabajamos con un programa de software libre de dibujo para el diseño de las antenas.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;94INyTn.jpg&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Estos son los resultados utilizando &lt;a href=&quot;https:&#x2F;&#x2F;www.freecadweb.org&#x2F;downloads.php?lang=es_ES&quot;&gt;FreeCAD&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;NYOZ9TS.jpg&quot; width=&quot;450&quot; height=&quot;300&quot;&gt;
+&lt;h2 id=&quot;guia-de-ondas-y-soporte&quot;&gt;Guia de ondas y soporte&lt;&#x2F;h2&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;zOvSDsL.jpg&quot; width=&quot;450&quot; height=&quot;300&quot;&gt;
+&lt;h3 id=&quot;como-iluminador-utilizamos-para-cada-chain-una-espiga-de-11-7mm-de-cable-coaxil-95-30-de-indeca-y-un-conector-rp-sma-male-en-el-otro-extremo&quot;&gt;Como &lt;strong&gt;iluminador&lt;&#x2F;strong&gt; utilizamos para cada chain, una espiga de 11,7mm de  cable coaxil 95&#x2F;30 de Indeca y un conector RP-SMA Male en el otro extremo&lt;&#x2F;h3&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;yNnzJKm.jpg&quot; width=&quot;150&quot; height=&quot;300&quot;&gt;
+&lt;h2 id=&quot;ponemos-a-disposicion-los-planos-para-construir-estas-antenas&quot;&gt;Ponemos a disposición los planos para construir estas antenas.&lt;&#x2F;h2&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;sWBLNPN.png&quot; width=&quot;450&quot; height=&quot;300&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;Bm5bfip.png&quot; width=&quot;450&quot; height=&quot;300&quot;&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>1. TDR</title>
+        <published>2022-09-15T00:00:00+00:00</published>
+        <updated>2022-09-15T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/1presentacion/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/1presentacion/</id>
+        <content type="html">&lt;h1 id=&quot;tecnologia-de-raiz&quot;&gt;&lt;strong&gt;Tecnología De Raíz&lt;&#x2F;strong&gt;&lt;&#x2F;h1&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;GyKBlpb.jpg&quot; align=center width=&quot;300&quot; height=&quot;250&quot;&gt;
+&lt;h2 id=&quot;somos-tdr&quot;&gt;Somos &lt;strong&gt;TdR&lt;&#x2F;strong&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Vecinxs del Barrio Ecológico &amp;quot;El Montecito&amp;quot; ubicado en el Valle de Punilla (Córdoba, Argentina)&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Formamos un grupo de estudio e investigación, con el cual generamos un espacio para trabajar y estudiar en conjunto, y lo sostenemos de forma continua desde mediados del 2019.&lt;&#x2F;em&gt; &lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;lLrzTjU.jpg&quot; width=&quot;200&quot; height=&quot;250&quot;&gt;
+&lt;p&gt;🛣️ Partimos de la curiosidad y el interés en compartir información acerca de electricidad, electrónica, tecnología y el derecho a las reparaciones.
+Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barrio, y comenzamos a aprender sobre redes comunitarias.:spider_web:&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;kKUC4GT.jpg&quot; align=right width=&quot;180&quot; height=&quot;200&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;enfocamos-nuestro-interes-en-la-investigacion-y-desarrollo-de-antenas&quot;&gt;Enfocamos nuestro interés en la investigación y desarrollo de antenas.&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;al-conformarnos-como-grupo-de-trabajo-nuestra-busqueda-es&quot;&gt;Al conformarnos como grupo de trabajo, nuestra búsqueda es:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Generar un prototipo de antena que se pueda reproducir facilmente.&lt;&#x2F;li&gt;
+&lt;li&gt;Generar un grupo de trabajo con perspectiva de género donde, a través de la comunicación, afianzar nuestros vínculos y así construir un espacio de trabajo armónico.&lt;&#x2F;li&gt;
+&lt;li&gt;Desarrollar nuestro emprendimiento con fines productivos, para que nos permita generar ingresos.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Utilizamos para eso un espacio de taller con una cantidad limitada de herramientas, que nos permiten desarrollar nuestra producción, pero nos gustaría poder mejorarlo, tanto en lo edilicio como sumando máquinas y herramientas.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ljebrYh.jpg&quot; width=200 heingth=180&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;EsKhwjh.jpg&quot; width=&quot;180&quot; height=&quot;200&quot;&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;iYsBOGX.jpg&quot; width=&quot;180&quot; height=&quot;200&quot;&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;3yWspAI.jpg&quot; width=&quot;200&quot; height=&quot;180&quot;&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;   Comenzamos el camino de investigación construyendo antenas doble biquad
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;vWV7acY.jpg&quot; width=200 heingth=180&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;lvkdowg.jpg&quot; width=200 heingth=180&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;NS17Tfq.jpg&quot; width=200 heingth=180&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;xDR5DUN.jpg&quot; width=200 heingth=180&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;pLAnDUg.jpg&quot; width=200 heingth=180&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;13lidiH.jpg&quot; width=200 heingth=180&gt; &lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;   Alguna de las cuales se encuentran instaladas en la red MonteNet 
+&lt;&#x2F;span&gt;&lt;span&gt;   ayudando a mejorar el enlace entre nodos.
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ADAAuaG.jpg&quot; width=200 heingth=180&gt; 
+&lt;p&gt;Hemos construido algunas &lt;a href=&quot;https:&#x2F;&#x2F;tdr.libre.org.ar&#x2F;paso-a-paso-sectorial&#x2F;&quot;&gt;&lt;em&gt;&amp;quot;guía de ondas&amp;quot;&lt;&#x2F;em&gt;&lt;&#x2F;a&gt; para las redes comunitarias de nuestro territorio, y estamos trabajando en un emprendimiento productivo con las mismas, respondiendo a las necesidades de las redes, intentando crear un producto eficiente, de bajo costo y de producción local.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;en-ese-camino-nos-encontramos-con-algunas-dificultades&quot;&gt;En ese camino, nos encontramos con algunas dificultades:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Las herramientas que tenemos no nos permiten mucha precisión, necesitamos trabajar más aún en el espacio del taller para optimizar el trabajo.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Las pruebas que realizamos fueron medidas con un programa que se desarrolló para tal fin, pero nos costó bastantes intentos adaptarlo y usarlo de manera óptima.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;El escenario para las pruebas tiene muchas variables, además de estar compartido con otras personas de la comunidad y en altura.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;desde-hace-un-tiempo-estamos-trabajando-en-estas-tareas&quot;&gt;Desde hace un tiempo, estamos trabajando en estas tareas:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Investigación y producción de prototipos de antenas funcionales a redes comunitarias de comunicación.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Logística de LibreRouters, recepción testeo y envíos a nivel nacional.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Revisión de mails -pedidos y consultas sobre LibreRouters-&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Acompañamiento y asistencia técnica en la red MonteNet.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Acompañamiento y promoción de redes comunitarias por la zona.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Nos motiva compartir conocimiento empoderante que facilite la apropiación tecnológica, y es por eso que trabajamos en el registro de nuestros procesos productivos, para poder compartirlos.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>1. TDR</title>
+        <published>2022-09-15T00:00:00+00:00</published>
+        <updated>2022-09-15T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/blog/1-presentation/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/blog/1-presentation/</id>
+        <content type="html">&lt;h1 id=&quot;tecnologia-de-raiz&quot;&gt;&lt;strong&gt;Tecnología De Raíz&lt;&#x2F;strong&gt;&lt;&#x2F;h1&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;GyKBlpb.jpg&quot; align=center width=&quot;300&quot; height=&quot;250&quot;&gt;
+&lt;h2 id=&quot;we-are-tdr&quot;&gt;We are &lt;strong&gt;TdR&lt;&#x2F;strong&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Neighbors of the Ecological Neighborhood &amp;quot;El Montecito&amp;quot; located in the Punilla Valley (Córdoba, Argentina)&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;We formed a study and research group, with which we created a space to work and study together, and we have sustained it continuously since mid-2019.&lt;&#x2F;em&gt; &lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;lLrzTjU.jpg&quot; width=&quot;200&quot; height=&quot;250&quot;&gt;
+&lt;p&gt;🛣️We start from curiosity and interest in sharing information about electricity, electronics, technology and the right to repairs. Going that way, the MonteNet network was simultaneously deployed in our neighborhood, and we began to learn about community networks.&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;kKUC4GT.jpg&quot; align=right width=&quot;180&quot; height=&quot;200&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;we-focus-our-interest-on-the-research-and-development-of-antennas&quot;&gt;We focus our interest on the research and development of antennas.&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;by-forming-ourselves-as-a-working-group-our-search-is&quot;&gt;By forming ourselves as a working group, our search is:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Generate an antenna prototype that can be easily reproduced.&lt;&#x2F;li&gt;
+&lt;li&gt;Generate a work group with a gender perspective where, through communication, we strengthen our ties and thus build a harmonious work space.&lt;&#x2F;li&gt;
+&lt;li&gt;Develop our enterprise for productive purposes, so that it allows us to generate income.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+For this, we use a workshop space with a limited number of tools, which allow us to develop our production, but we would like to be able to improve it, both in terms of construction and adding machines and tools&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ljebrYh.jpg&quot; width=200 heingth=180&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;EsKhwjh.jpg&quot; width=&quot;180&quot; height=&quot;200&quot;&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;iYsBOGX.jpg&quot; width=&quot;180&quot; height=&quot;200&quot;&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;3yWspAI.jpg&quot; width=&quot;200&quot; height=&quot;180&quot;&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;   We started the research path by building double biquad antennas.
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;vWV7acY.jpg&quot; width=200 heingth=180&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;lvkdowg.jpg&quot; width=200 heingth=180&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;NS17Tfq.jpg&quot; width=200 heingth=180&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;xDR5DUN.jpg&quot; width=200 heingth=180&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;pLAnDUg.jpg&quot; width=200 heingth=180&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;13lidiH.jpg&quot; width=200 heingth=180&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;Some of which are installed in the MonteNet network, helping to improve the link between nodes. 
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ADAAuaG.jpg&quot; width=200 heingth=180&gt; &lt;&#x2F;p&gt;
+&lt;p&gt;We have built some &lt;a href=&quot;https:&#x2F;&#x2F;tdr.libre.org.ar&#x2F;paso-a-paso-sectorial&#x2F;&quot;&gt;&lt;em&gt;&amp;quot;waveguides&amp;quot;&lt;&#x2F;em&gt;&lt;&#x2F;a&gt; for the community networks in our territory, and we are working on a productive enterprise with them, responding to the needs of the networks, trying to create an efficient, low-cost, locally produced product.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;on-that-path-we-encountered-some-difficulties&quot;&gt;On that path, we encountered some difficulties:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The tools we have do not allow us much precision, we need to work even more in the workshop space to optimize the work.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The tests we carried out were measured with a program that was developed for this purpose, but it took us quite a few attempts to adapt it and use it optimally.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;The stage for the tests has many variables, in addition to being shared with other people in the community and at height.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;for-some-time-now-we-have-been-working-on-these-tasks&quot;&gt;For some time now, we have been working on these tasks:&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Research and production of functional antenna prototypes for community communication networks.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;LibreRouters logistics, reception, testing and shipments nationwide.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Review of mails -orders and inquiries about LibreRouters-&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Accompaniment and technical assistance in the MonteNet network.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Support and promotion of community networks in the area&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;We are motivated to share empowering knowledge that facilitates technological appropriation, and that is why we work on registering our production processes, in order to share them.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>3. Soporte para guía de ondas</title>
+        <published>2022-04-25T00:00:00+00:00</published>
+        <updated>2022-04-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/3-diseno-de-soporte-para-guia-de-ondas/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/3-diseno-de-soporte-para-guia-de-ondas/</id>
+        <content type="html">&lt;h1 id=&quot;diseno-de-soporte-para-guia-de-ondas&quot;&gt;Diseño de soporte para guía de ondas&lt;&#x2F;h1&gt;
+&lt;p&gt;En la búsqueda para obtener un diseño de soporte, tuvimos en cuenta:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Que sea liviano.&lt;&#x2F;li&gt;
+&lt;li&gt;La menor cantidad de material posible.&lt;&#x2F;li&gt;
+&lt;li&gt;Que tenga la versatilidad de poder adaptarse a caños más pequeños o más grandes.&lt;&#x2F;li&gt;
+&lt;li&gt;Que el material utilizado sea duradero y compatible con el material de la antena.&lt;&#x2F;li&gt;
+&lt;li&gt;Que sea fácil de reproducir.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;hSVqjId.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;QhS3IQn.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;i77is0i.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;R4a2en7.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>2. Step by step to create the design of your sector antenna</title>
+        <published>2022-04-25T00:00:00+00:00</published>
+        <updated>2022-04-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/blog/2-step-by-step-sectorial/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/blog/2-step-by-step-sectorial/</id>
+        <content type="html">&lt;h1 id=&quot;an-idea-of-how-to-make-the-design-of-your-sector-antenna&quot;&gt;An idea of how to make the design of your sector antenna&lt;&#x2F;h1&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#c0c5ce;&quot;&gt;&lt;code&gt;&lt;span&gt;We thank NlNet and Altermundi for making this project possible. 
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;em&gt;From our reality, we try to create solutions for the development of Hardware in the territories, in an accessible way.&lt;&#x2F;em&gt; &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;In the search for an antenna design with optimal gain, easily replicable , we return to the research work that AlterMundi began and sustained to estimate dimensions of the antenna, using a &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;6cfcefe5b7c623523bdbc38a3de3d6f52c728e81&#x2F;circular_waveguide_tuneado.ods&quot;&gt;Waveguide calculator&lt;&#x2F;a&gt;, adapted for 5.8 Ghz by Nicolás Echaniz&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;q1iutf3.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;h3 id=&quot;this-is-the-foundation-on-which-we-build-our-production-experiences-and-continue-to-expand-research-at-tdr&quot;&gt;This is the foundation on which we build our production experiences and continue to expand research at TDR.&lt;&#x2F;h3&gt;
+&lt;h3 id=&quot;&quot;&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;We work with a free drawing software program for the design of the antennas.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;94INyTn.jpg&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;p&gt;&lt;strong&gt;These are the results using &lt;a href=&quot;https:&#x2F;&#x2F;www.freecadweb.org&#x2F;downloads.php?lang=es_ES&quot;&gt;FreeCAD&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;NYOZ9TS.jpg&quot; width=&quot;450&quot; height=&quot;300&quot;&gt;
+&lt;h2 id=&quot;waveguide-and-support&quot;&gt;Waveguide and support&lt;&#x2F;h2&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;zOvSDsL.jpg&quot; width=&quot;450&quot; height=&quot;300&quot;&gt;
+&lt;h3 id=&quot;as-illuminator-we-use-for-each-chain-a-11-7mm-spike-of-95-30-coaxial-cable-from-indeca-and-a-rp-sma-male-connector-at-the-other-end&quot;&gt;As illuminator we use for each chain, a 11.7mm spike of 95&#x2F;30 coaxial cable from Indeca and a RP-SMA Male connector at the other end.&lt;&#x2F;h3&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;yNnzJKm.jpg&quot; width=&quot;150&quot; height=&quot;300&quot;&gt;
+&lt;h2 id=&quot;we-provide-the-plans-to-build-these-antennas&quot;&gt;We provide the plans to build these antennas.&lt;&#x2F;h2&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;PNygytb.png&quot; width=&quot;450&quot; height=&quot;300&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;aPSEXgN.png&quot; width=&quot;450&quot; height=&quot;300&quot;&gt;
+&lt;p&gt;Files in: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&quot;&gt;Link to Github project&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>3. Waveguide Support</title>
+        <published>2022-04-25T00:00:00+00:00</published>
+        <updated>2022-04-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/blog/3-waveguide-support/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/blog/3-waveguide-support/</id>
+        <content type="html">&lt;h1 id=&quot;waveguide-support-design&quot;&gt;Waveguide support design&lt;&#x2F;h1&gt;
+&lt;p&gt;In the research to obtain a support design, we considered:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lightweight.&lt;&#x2F;li&gt;
+&lt;li&gt;As few materials as possible.&lt;&#x2F;li&gt;
+&lt;li&gt;That it has the versatility to be able to adapt to smaller or larger pipes.&lt;&#x2F;li&gt;
+&lt;li&gt;The material used should be durable and compatible with the antenna material.&lt;&#x2F;li&gt;
+&lt;li&gt;That it is easy to reproduce.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;hSVqjId.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;QhS3IQn.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;i77is0i.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;R4a2en7.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>5. ¿Cómo hacer una guía de ondas?</title>
+        <published>2021-12-21T00:00:00+00:00</published>
+        <updated>2021-12-21T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/5-como-hacer-una-antena-guia-de-ondas-descripcion-de-nuestro-espacio-de-trabajo/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/5-como-hacer-una-antena-guia-de-ondas-descripcion-de-nuestro-espacio-de-trabajo/</id>
+        <content type="html">&lt;h2&gt;
+    &lt;u&gt;
+    ¿Cómo es nuestro espacio de trabajo?
+    &lt;&#x2F;u&gt; 
+&lt;&#x2F;h2&gt;
+&lt;p&gt;
+    El espacio físico en el que trabajamos es un ambiente de 3,5m x 4m, donde tenemos dos mesas de trabajo:
+&lt;&#x2F;p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Una donde preparamos los caños y soportes.
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Otra donde está el dispositivo que sostiene los cables para soldar.
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;gXzymOk.jpg&quot; width=&quot;500&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;q1ku5VV.jpg&quot; width=&quot;500&quot;&gt;
+&lt;h2&gt;
+    &lt;u&gt;
+        Elementos de protección personal:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h2&gt;
+&lt;ul&gt; 
+    &lt;li&gt;
+        Protectores auditivos
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Guantes
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Lentes
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Mascarillas
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Ropa de trabajo
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+    Proceso de producción con materiales y herramientas avanzadas
+&lt;&#x2F;h2&gt;
+&lt;h2&gt;
+    Marcar soportes
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Espacio de trabajo:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Para este proceso utilizamos una mesa y un taco de madera que nos ayuda a realizar el marcado con una plantilla hecha a medida para luego perforar los &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;main&#x2F;Plano%20Soporte-v3.svg&quot;&gt;Soportes&lt;&#x2F;a&gt;.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Para este proceso necesitamos:    
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Mesa firme
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Taco de madera
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Plantilla de perforacion
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Plancha de metal de 2mm de grosor de 50mm x 80mm con un pliegue a 90º de 50mm x 50mm,
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Punto de marcar
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Martillo 
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        ¿Cómo se hace?    
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+Utilizamos la mesa de trabajo con un taco de madera que sostiene la plancha de metal para marcarla, apoyando la plantilla para hacer las perforaciones sobre ella.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ttwx4Xp.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;qqn3m3w.jpg&quot; width=&quot;229&quot;&gt;
+&lt;p&gt;
+    Con la ayuda de la plantilla procedemos a marcar la plancha con un punto de marcar y martillo.
+&lt;&#x2F;p&gt;
+&lt;p&gt;
+    De no contar con recursos para crear esa plantilla, Visitá el siguiente 
+&lt;a 
+href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;main&#x2F;Marcar%20soportes.pdf&quot;&gt;enlace &lt;&#x2F;a&gt;   
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;iICJJL1.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Recomendaciones:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Es importante que la plantilla esté alineada con el soporte, para luego no tener problemas a la hora de alinear las antenas.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Perforar soportes
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Espacio de trabajo:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Utilizamos la mesa de trabajo central con el taladro de banco, y la plantilla diseñada para tal fin.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Para este proceso necesitamos:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Mecha 6mm
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Lima redonda y plana (para eliminar rebarbas)
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Taladro de banco
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Morza
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        ¿Cómo se hace?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Con las planchas de metal marcadas, procedemos a perforarlas con el taladro de banco.
+    Una vez realizadas las perforaciones, limamos las rebarbas.
+&lt;&#x2F;p&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;Uk10gMI.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;v7XmteS.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;a5hBm64.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;hnJvwl5.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Recomendaciones y advertencias: 
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt; 
+&lt;p&gt;
+    Es recomendable utilizar un taco de madera que la morza del taladro de banco pueda sujetar y permita apoyar el soporte encima para perforar sobre él.
+&lt;p&gt;Tambien es recomendable no demorar demasiado realizando la perforacion para no estropear la mecha, ya que esta se calienta mucho por la friccion. Además recomendamos utilizar baja velocidad para perforar metales.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;mark&gt;La perforación de los soportes se puede realizar, en caso de no contar con taladro de banco, con taladro de mano.
+&lt;&#x2F;mark&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Perforado y estañado de la guía de ondas
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Espacio de trabajo:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Para esta tarea, utilizamos la mesa de trabajo central, con el taladro de banco.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+      Para este proceso necesitamos: 
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Taladro de banco
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Soldador de inducción
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Estaño
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        ¿Cómo se hace?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Con el caño de 130mm procedemos a preparar el banco de trabajo para perforar la guia de ondas.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;GhNqUXl.jpg&quot; width=&quot;250&quot;&gt;
+&lt;p&gt;
+Con la ayuda del &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;main&#x2F;PLANOS&#x2F;MOLDE%20DE%20PERFORACION%20-%20V2.svg&quot;&gt;molde de perforacion&lt;&#x2F;a&gt;. 
+&lt;&#x2F;p&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;5j43Whh.jpg&quot; width=&quot;250&quot;&gt;
+&lt;p&gt;
+Una vez perforado el caño estañamos alrededor de los orificios
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;DWT8PUM.jpg&quot; width=&quot;300&quot;&gt;
+&lt;p&gt;
+    &lt;mark&gt;En caso de no contar con estas     herramientas, se puede realizar el procedimiento con otras más básicas. Para saber cómo, visitá el siguiente
+&lt;a 
+href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;main&#x2F;perforado%20y%20estañado.pdf&quot;&gt;enlace  &lt;&#x2F;a&gt;
+    &lt;&#x2F;mark&gt;
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Advertencias:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Es importante que los orificios de la guia de ondas esten alineados con los del soporte, ya que esto nos va a afectar a la hora de alinear la antena.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Recortar bordes para darle forma circular al soporte
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Espacio de trabajo:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Utilizamos la mesa central del taller.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+      Para este proceso necesitamos: 
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Tijera cortachapa
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Lima
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        ¿Cómo se hace?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Se utiliza el caño de la guía de ondas como plantilla para marcar los soportes.
+    Luego con la tijera de cortar chapa, siguiendo las marcas, se le da forma redondeada.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ra1M4Wp.jpg&quot; width=&quot;200&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;Ul3tYHn.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;Xw1oF1h.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Recomendaciones:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Utilizar elementos de seguridad personal, en este caso guantes.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Soldar soportes
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Espacio de trabajo:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Utilizamos la mesa de trabajo, con una chapa que resguarde la mesa de las chispas que caen durante la soldadura.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+      Para este proceso necesitamos: 
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Chapa
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Soldador inverter
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Electrodos E-6013 (o compatible)
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Morza
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Caño y soporte
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Guantes de soldar o de cuero
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Máscara protectora
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        ¿Cómo se hace?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Con el soporte agarrado a la morza por su lado perforado, colocamos la guia de ondas con las perforaciones hacia abajo y una de ellas orientada hacia el lado redondeado del soporte.  
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;03QkQWv.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Recomendaciones:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Es muy importante que se utilice protección en la vista, las máscaras que se utilicen deben ser las apropiadas para soldador eléctrico.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Amolar y masillar
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Espacio de trabajo:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Utilizamos la mesa central del taller con la morza colocada.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+      Para este proceso necesitamos: 
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Morza
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Amoladora
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Disco de amolar
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Guía de ondas con soportes soldados
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        ¿Cómo se hace?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Sujetando la guia de ondas con la morza firmemente, eliminamos el excedente de soldadura del soporte y la guia de ondas.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;kmyraO5.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Advertencias:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+&lt;p&gt;Utilizar elementos de protección personal, en este caso lentes, guantes, protección auditiva y ropa de trabajo que cubra todo el cuerpo, para que la viruta de metal no nos dañe. Asimismo, trabajar con la ventilación correspondiente&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Pintura antenas
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Espacio de trabajo:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    La máquina de pintar se utiliza en cabina de pintado o en exterior, ya que el espacio de trabajo dentro del taller es muy reducido, y la máquina pulveriza gran cantidad de pintura.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+      Para este proceso necesitamos: 
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Pintura sintética de alta resistencia.
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Máquina para pintar.
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Diluyente.
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        ¿Cómo se hace?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+   Para utilizar la maquina para pintar, primero se debe diluir la pintura de manera que quede lo suficientemente liquida para poder ser pulverizada por la máquina.
+    Para el secado, utilizamos un dispositivo colgante donde pueden permanecer durante el tiempo necesario, sin obstaculizar el trabajo en el resto del taller, hasta finalizar su proceso de secado.
+&lt;&#x2F;p&gt;
+&lt;p&gt;
+&lt;p&gt;En caso de no contar con máquina para pintar, este procedimiento se puede realizar con pincel &lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;QMW2gVO.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;HRpBZ2O.jpg&quot; width=&quot;300&quot;&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+    Armado de cables pigtail
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Espacio de trabajo:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Esta parte de la producción se realiza en una mesa libre de limaduras o virutas de metal.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ROP7Pib.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;F7tCu67.jpg&quot; width=&quot;250&quot;&gt;
+&lt;p&gt;
+    Colocamos los conectores SMA RP male
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;rShLDTP.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ezeSEGo.png&quot; width=&quot;250&quot;&gt;
+&lt;p&gt;
+    Para mostrar como es el proceso, compartimos estos videos explicativos:
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;a 
+href=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;780569067?h=7d256afc33&quot;&gt;Ensamblado parte 1&lt;&#x2F;a&gt;
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;780568264?h=076a3a0531&quot;&gt;Ensamblado parte 2&lt;&#x2F;a&gt;
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;p&gt;
+&lt;p&gt;
+    Para finalizar el proceso, se crimpean y se les coloca termocontraible 
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ZACdT5x.png&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;HNBOqjr.jpg&quot; width=&quot;250&quot;&gt;
+&lt;p&gt;
+    En el otro extremo del cable, pelamos la vaina hasta obtener la espiga que iluminará la guía de ondas.
+	Recomendamos una espiga de 11.7mm de longitud.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ROP7Pib.jpg&quot; width=&quot;250&quot;&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+    Soldar cables al caño
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Espacio de trabajo:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Este proceso se puede realizar en la mesa de trabajo auxiliar, donde tenemos instalado un dispositivo con ranuras para sostener los cables.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;dhaLKIt.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+      Para este proceso necesitamos: 
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Estaño
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Soldador vesubio
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Segmento de 5mm de caño de aluminio de 8mm (3&#x2F;8&quot;)
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Cable pigtail x2
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        ¿Cómo se hace?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Estañamos las perforaciones previamente cepilladas, luego tomamos el cable  pigtail, lo colocamos en la perforacion y soldamos la malla al caño (guia de ondas).
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;Yfhxqin.jpg&quot; width=&quot;250&quot;&gt;
+&lt;p&gt;
+    &lt;mark&gt;En caso de no contar con soldador vesubio, se puede realizar este trabajo con soldador zinguero.&lt;&#x2F;mark&gt;
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Recomendaciones o advertencias:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Debemos asegurarnos de que el soldador este bien caliente y limpio, para reducir al mínimo el tiempo de contacto y así no quemar la vaina del cable.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Impresión de anillos portachains
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Espacio de trabajo:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Utilizamos un mueble donde esta posicionada la impresora 3D, resguardada de la hostilidad del taller.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;cdfA0QW.jpg&quot; width=&quot;350&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Para este trabajo necesitamos:    
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Diseños hechos en Freecad
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Impresora 3D
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Filamento Petg
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        ¿Cómo se hace?    
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Laminamos los diseños (.stl) hechos en Freecad para obtenerlos en formato .gcode en este caso, los almacenamos en una tarjeta de memoria que insertamos en la impresora 3D para imprimirlos.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Colocar anillos portachains
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Espacio de trabajo:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;    
+    Utilizamos la mesa auxiliar para poner los portachain.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+       Para este proceso necesitamos:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Anillos portachain    
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Antena con cables soldados
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Caño de aluminio de 3&#x2F;8&quot;
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        ¿Cómo se hace?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Se introduce el anillo más grande a través de la guía de ondas, hasta llegar al lugar donde se encuentra el cable.
+ Luego se acopla el portachain trasero, utilizando un segmento de 5mm de caño de aluminio de 3&#x2F;8&quot;, pasandolo a través del cable y llevandolo hasta los dos portachains juntos, y crimpeandolo para sujetar con firmeza los cables.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Testeo
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Espacio de trabajo
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Este trabajo se puede realizar en el dispositivo creado para sostener los cables.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Para este proceso necesitamos.
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;main&#x2F;RC%20Antenna%20SWR%20Meter.pdf&quot;&gt;RC Antena SWR Meter&lt;&#x2F;a&gt;.
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        ¿Cómo se hace?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    En primer lugar se realiza una inspección ocular para acomodar a 90 grados las dos espigas.
+    Una vez realizado ese procedimiento, se conecta uno de los cables al medidor RC antenna meter y se miden  primero las ondas emitidas por ese chain, y luego las del otro.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;8tGsiFz.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h2&gt;
+    Colocar tapas y terminacion
+&lt;&#x2F;h2&gt;
+&lt;h3&gt;
+    &lt;u&gt;
+        Para este proceso necesitamos
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Regaton o tapa de plático
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Guía de ondas ensamblada
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+    Para proteger los iluminadores, la guia de ondas se cierra con una tapa de plástico y sellador de silicona para evitar filtraciones.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+Antena terminada    
+&lt;&#x2F;h2&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;aEgRFwI.jpg&quot; width=&quot;400&quot;&gt;
+&lt;p&gt;
+&lt;h2&gt;
+TdR no se hace responsable de los posibles daños causados por la realización de estos procedimientos utilizando este material informativo.
+&lt;&#x2F;h2&gt;
+&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>5. How to build a waveguide?</title>
+        <published>2021-12-21T00:00:00+00:00</published>
+        <updated>2021-12-21T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/blog/5-how-to-make-a-waveguide-antenna-description-of-our-workspace/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/blog/5-how-to-make-a-waveguide-antenna-description-of-our-workspace/</id>
+        <content type="html">&lt;h1&gt;Workspace description&lt;&#x2F;h1&gt;
+&lt;p&gt;
+The physical space in which we work is a 3.5m x 4m room, where we have two work tables:    
+&lt;ul&gt;
+    &lt;li&gt;
+        One where we preparate the pipes and metal brackets.
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        another one where we have the device that holds the wires for welding.
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;gXzymOk.jpg&quot; width=&quot;500&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;q1ku5VV.jpg&quot; width=&quot;500&quot;&gt;
+&lt;h2&gt;
+    &lt;u&gt;
+        Personal protective equipment:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Hearing protectors
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Gloves
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Goggles
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Masks
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Work clothes
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2&gt;
+    Production process with advanced materials and tools
+&lt;&#x2F;h2&gt;
+&lt;h2&gt;
+    Mark Metal Brackets
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Workspace:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    For this process we use a table and a wooden block that helps us to make the marking with a custom-made template and then drill the  &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;main&#x2F;Plano%20Soporte-v3.svg&quot;&gt;metal brackets.&lt;&#x2F;a&gt;
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        For this process we need:    
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Firm table
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Wooden block
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Perforation template
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        2mm thick metal sheet of 50mm x 80mm with a 90º fold of 50mm x 50mm
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Marking point
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Hammer 
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        How to do it?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    We use the work table with a wooden block that holds the metal plate to mark it, supporting the template to make the perforations on it.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ttwx4Xp.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;qqn3m3w.jpg&quot; width=&quot;229&quot;&gt;
+&lt;p&gt;
+    With the help of the template we proceed to mark the plate with a marking point and hammer.
+&lt;&#x2F;p&gt;
+&lt;p&gt;
+    &lt;mark&gt;   If you do not have the resources to create such a template, please visit the following 
+&lt;a 
+href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;main&#x2F;Marking%20supports.pdf&quot;&gt;link.&lt;&#x2F;a&gt;   &lt;&#x2F;mark&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;iICJJL1.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Recommendations:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    To avoid problems with the alignment of the antennas it is necessary that the template is aligned with the bracket.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Drilling of metal brackets
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Workspace:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    We use the central work table with the bench drill, and the template designed for this purpose.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        For this process we need:  
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+       6mm wick
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Round and flat file (to remove burrs)
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Bench drill
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Bench vise
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        How to do it?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    With the metal plates marked, we proceed to drill them with the bench drill.
+    Once the holes have been drilled, we file off the burrs.
+&lt;&#x2F;p&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;Uk10gMI.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;v7XmteS.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;a5hBm64.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;hnJvwl5.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Recommendations:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt; 
+&lt;p&gt;
+    It is advisable to use a wooden dowel that the drill bit can hold and allow the metal bracket to rest on it for drilling.
+&lt;p&gt;It is also advisable not to take too long when drilling to avoid damaging the drill bit, as it gets very hot due to friction. It is also recommended to use low speed when drilling metals.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;mark&gt;If a bench drill is not available, the brackets can be drilled with a hand drill.
+&lt;&#x2F;mark&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Drilling and tinning of the waveguide
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Workspace:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    For this task, we use the central workbench, with the bench drill.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+      For this process we need:   
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Bench drill
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Induction welder
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Tin
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+       How to do it?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    With the 130mm iron pipe we proceed to prepare the workbench to drill the waveguide.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;GhNqUXl.jpg&quot; width=&quot;250&quot;&gt;
+&lt;p&gt;
+With the help of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;main&#x2F;MOLDE%20DE%20PERFORACION%20GUIA%20DE%20ONDAS-v2.FCStd&quot;&gt;drilling mold.&lt;&#x2F;a&gt;. 
+&lt;&#x2F;p&gt; 
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;5j43Whh.jpg&quot; width=&quot;250&quot;&gt;
+&lt;p&gt;
+    Once the pipe is drilled we tin around the holes.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;DWT8PUM.jpg&quot; width=&quot;300&quot;&gt;
+&lt;p&gt;
+    &lt;mark&gt; If you do not have these tools, you can perform the procedure with other more basic tools. To find out how, visit the following
+&lt;a 
+href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;main&#x2F;Drilling%20and%20tinning%20of%20waveguide%20holes.pdf&quot;&gt;link  &lt;&#x2F;a&gt;&lt;&#x2F;mark&gt;
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Recommendations:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    It is important that the holes in the waveguide are aligned with the holes in the bracket, as this will affect the alignment of the antenna.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Trimming edges to give circular shape to the metal bracket
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Workspace:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+   We use the central table of the workspace.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+      For this process we need:  
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Veneer cutter
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Lime
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        How to do it?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    The waveguide pipe is used as a template to mark the brackets.
+    Then with the sheet metal cutter, following the marks, the rounded shape is given.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ra1M4Wp.jpg&quot; width=&quot;200&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;Ul3tYHn.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;Xw1oF1h.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Recommendations:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Use personal safety elements, in this case gloves.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Welding brackets
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Workspace:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    We use the work table, with a plate to protect the table from sparks falling during welding.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+      For this process we need:  
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Sheet metal
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Inverter welder
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Electrodes E-6013 (or compatible)
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Bench vise
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Pipe and bracket
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Welding or leather gloves
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Protective mask
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        How to do it?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    With the bracket clamped to the mortise by its perforated side, we place the waveguide with the perforations facing downwards and one of them facing the rounded side of the bracket. 
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;03QkQWv.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Recommendations:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    It is very important to use eye protection, the masks used must be appropriate for electric welders.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Grinding and puttying
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Workspace:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    We use the central table of the workshop with the bench vise in place.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+      For this process we need:  
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Bench vise
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Grinder
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Grinding disc
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Waveguide with welded brackets
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+       How to do it?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    Holding the waveguide firmly with the clamp, we remove the excess solder from the bracket and the waveguide.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;kmyraO5.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Cautions:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+&lt;p&gt;Use personal protection elements, in this case glasses, gloves, hearing protection and work clothes that cover the whole body, so that the metal shavings do not harm us. Also, work with the corresponding ventilation.&lt;&#x2F;p&gt;
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Antenna painting
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Workspace:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    The painting machine is used in a spray booth or outdoors, since the working space inside the workspace is very small, and the machine sprays a large amount of paint.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+      For this process we need:   
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        High resistance synthetic paint.
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Painting machine.
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Diluent.
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+       How to do it?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+   To use the machine for painting, the paint must first be diluted so that it is sufficiently liquid to be sprayed by the machine.
+    For drying, we use a hanging device where they can remain for the necessary time, without hindering the work in the rest of the workshop, until the drying process is finished.
+&lt;&#x2F;p&gt;
+&lt;p&gt;
+    &lt;mark&gt;In case you do not have a painting machine, this procedure can be done with a brush. &lt;&#x2F;mark&gt;
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;HRpBZ2O.jpg&quot; width=&quot;300&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;QMW2gVO.jpg&quot; width=&quot;250&quot;&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+    Pigtail cable assembly
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Workspace:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    This part of the production is carried out on a table free of metal filings or shavings.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ROP7Pib.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;F7tCu67.jpg&quot; width=&quot;250&quot;&gt;
+&lt;p&gt;
+    We fit the SMA RP male connectors
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;rShLDTP.jpg&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ezeSEGo.png&quot; width=&quot;250&quot;&gt;
+&lt;p&gt;
+    To show how the process works, we share these explainer videos:
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;a 
+href=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;780569067?h=7d256afc33&quot;&gt;Assembly part 1&lt;&#x2F;a&gt;
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;https:&#x2F;&#x2F;player.vimeo.com&#x2F;video&#x2F;780568264?h=076a3a0531&quot;&gt;Assembly part 2&lt;&#x2F;a&gt;
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+    To complete the process, they are crimped and heat-shrunk. 
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ZACdT5x.png&quot; width=&quot;250&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;HNBOqjr.jpg&quot; width=&quot;250&quot;&gt;
+&lt;p&gt;
+    At the other end of the wire, we strip the sheath to obtain the pin that will illuminate the waveguide.
+	We recommend an 11.7mm long pin.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ROP7Pib.jpg&quot; width=&quot;250&quot;&gt;
+&lt;hr&gt;
+&lt;h2&gt;
+    Solder wires to the pipe
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Workspace:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    This process can be performed on the auxiliary workbench, where we have installed a device with slots to hold the cables. 
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+      For this process we need:  
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Tin
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Vesuvius welder
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        5mm (3&#x2F;8&quot;) segment of 8mm (3&#x2F;8&quot;) aluminum pipe
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Pigtail cable x2
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        How to do it?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    We tin the perforations previously brushed, then we take the pigtail cable, place it in the perforation and solder the mesh to the pipe (waveguide).
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;Yfhxqin.jpg&quot; width=&quot;250&quot;&gt;
+&lt;p&gt;
+    &lt;mark&gt;If you do not have a Vesuvius welder, this work can be carried out with a Zinguero welder.&lt;&#x2F;mark&gt;
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Recommendations:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    We must make sure that the soldering iron is very hot and clean, in order to minimize the contact time and thus not burn the cable sheath.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+   Portachains rings printing
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Workspace:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    We use a piece of furniture where the 3D printer is positioned, sheltered from the hostility of the workshop.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;cdfA0QW.jpg&quot; width=&quot;350&quot;&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        For this process we need: 
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Designs made in Freecad
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        3D Printer
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Petg Filament
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        How to do it?  
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    We laminate the designs (.stl) made in Freecad to obtain them in .gcode format in this case, we store them in a memory card that we insert in the 3D printer to print them.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Fitting portachains rings
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Workspace:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;    
+    We use the auxiliary table to place the portachain.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+       For this process we need: 
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+         Portachain rings   
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Antenna with welded cables
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        3&#x2F;8&quot; aluminum pipe
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        How to do it?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    The larger ring is inserted through the waveguide, until it reaches the place where the cable is located.
+ Then attach the rear carrier, using a 5mm segment of 3&#x2F;8&quot; aluminum pipe, passing it through the cable and bringing it up to the two carriers together, and crimping it to hold the cables securely.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+    Testing
+&lt;&#x2F;h2&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        Workspace:
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    This work can be performed on the device created to hold the cables.
+&lt;&#x2F;p&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        For this process we need: 
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TecnologiadeRaiz&#x2F;LoPALiR&#x2F;blob&#x2F;main&#x2F;About%20RC%20Antenna%20SWR%20Meter.pdf&quot;&gt;RC Antenna SWR Meter.&lt;&#x2F;a&gt;
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4&gt;
+    &lt;u&gt;
+        How to do it?
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h4&gt;
+&lt;p&gt;
+    First of all, an visual inspection is carried out in order to arrange the two pins at 90 degrees.
+    Once this procedure is done, one of the wires is connected to the RC antenna meter and the waves emitted by that chain are measured first, and then those of the other one.
+&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;8tGsiFz.jpg&quot; width=&quot;250&quot;&gt;
+&lt;h2&gt;
+    Placing covers and finishing
+&lt;&#x2F;h2&gt;
+&lt;h3&gt;
+    &lt;u&gt;
+        For this process we need: 
+    &lt;&#x2F;u&gt;
+&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        Plastic lid 
+    &lt;&#x2F;li&gt;
+    &lt;li&gt;
+        Assembled waveguide
+    &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;
+    To protect the illuminators, the waveguide is closed with a plastic cover and silicone sealant to prevent leaks.
+&lt;&#x2F;p&gt;
+&lt;h2&gt;
+Finished antenna    
+&lt;&#x2F;h2&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;aEgRFwI.jpg&quot; width=&quot;400&quot;&gt;
+&lt;p&gt;
+	&lt;h2&gt;
+		TdR is not responsible for possible damages caused by performing these procedures using this informative material.
+		&lt;&#x2F;h2&gt;
+		&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>FAQ</title>
+        <published>2021-05-01T19:30:00+00:00</published>
+        <updated>2021-05-01T19:30:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/docs/help/faq/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/docs/help/faq/</id>
+        <content type="html">&lt;h2 id=&quot;what-is-the-adidoks&quot;&gt;What is the AdiDoks?&lt;&#x2F;h2&gt;
+&lt;p&gt;AdiDoks is a Zola theme for Documentation&#x27;s sites, ported by the Hugo Theme
+&lt;a href=&quot;https:&#x2F;&#x2F;getdoks.org&quot;&gt;Doks&lt;&#x2F;a&gt;, which is a pretty nice theme. Thanks a lot to 
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;h-enk&quot;&gt;&lt;em&gt;h-enk&lt;&#x2F;em&gt;&lt;&#x2F;a&gt;, the creator of the &lt;a href=&quot;https:&#x2F;&#x2F;getdoks.org&quot;&gt;Doks&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;keyboard-shortcuts-for-search&quot;&gt;Keyboard shortcuts for search?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;focus: &lt;code&gt;&#x2F;&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;select: &lt;code&gt;↓&lt;&#x2F;code&gt; and &lt;code&gt;↑&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;open: &lt;code&gt;Enter&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;close: &lt;code&gt;Esc&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;other-documentation&quot;&gt;Other documentation?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.netlify.com&#x2F;&quot;&gt;Netlify&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;documentation&#x2F;getting-started&#x2F;overview&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;contact-the-creator&quot;&gt;Contact the creator?&lt;&#x2F;h2&gt;
+&lt;p&gt;Send &lt;em&gt;Aaran Xu&lt;&#x2F;em&gt; an E-mail:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:aaranxu@outlook.com&quot;&gt;aaranxu@outlook.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>Code of Conduct</title>
+        <published>2021-05-01T18:20:00+00:00</published>
+        <updated>2021-05-01T18:20:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/docs/contributing/code-of-conduct/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/docs/contributing/code-of-conduct/</id>
+        <content type="html">&lt;h2 id=&quot;our-pledge&quot;&gt;Our Pledge&lt;&#x2F;h2&gt;
+&lt;p&gt;We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, caste, color, religion, or sexual identity
+and orientation.&lt;&#x2F;p&gt;
+&lt;p&gt;We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;our-standards&quot;&gt;Our Standards&lt;&#x2F;h2&gt;
+&lt;p&gt;Examples of behavior that contributes to a positive environment for our
+community include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrating empathy and kindness toward other people&lt;&#x2F;li&gt;
+&lt;li&gt;Being respectful of differing opinions, viewpoints, and experiences&lt;&#x2F;li&gt;
+&lt;li&gt;Giving and gracefully accepting constructive feedback&lt;&#x2F;li&gt;
+&lt;li&gt;Accepting responsibility and apologizing to those affected by our mistakes,
+and learning from the experience&lt;&#x2F;li&gt;
+&lt;li&gt;Focusing on what is best not just for us as individuals, but for the
+overall community&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Examples of unacceptable behavior include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The use of sexualized language or imagery, and sexual attention or
+advances of any kind&lt;&#x2F;li&gt;
+&lt;li&gt;Trolling, insulting or derogatory comments, and personal or political attacks&lt;&#x2F;li&gt;
+&lt;li&gt;Public or private harassment&lt;&#x2F;li&gt;
+&lt;li&gt;Publishing others&#x27; private information, such as a physical or email
+address, without their explicit permission&lt;&#x2F;li&gt;
+&lt;li&gt;Other conduct which could reasonably be considered inappropriate in a
+professional setting&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;enforcement-responsibilities&quot;&gt;Enforcement Responsibilities&lt;&#x2F;h2&gt;
+&lt;p&gt;Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.&lt;&#x2F;p&gt;
+&lt;p&gt;Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;&#x2F;h2&gt;
+&lt;p&gt;This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official e-mail address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;enforcement&quot;&gt;Enforcement&lt;&#x2F;h2&gt;
+&lt;p&gt;Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+&lt;a href=&quot;mailto:aaranxu@outlook.com&quot;&gt;aaranxu@outlook.com&lt;&#x2F;a&gt;.
+All complaints will be reviewed and investigated promptly and fairly.&lt;&#x2F;p&gt;
+&lt;p&gt;All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;enforcement-guidelines&quot;&gt;Enforcement Guidelines&lt;&#x2F;h2&gt;
+&lt;p&gt;Community leaders will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct:&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;1-correction&quot;&gt;1. Correction&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Impact&lt;&#x2F;strong&gt;: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Consequence&lt;&#x2F;strong&gt;: A private, written warning from community leaders, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A public apology may be requested.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;2-warning&quot;&gt;2. Warning&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Impact&lt;&#x2F;strong&gt;: A violation through a single incident or series
+of actions.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Consequence&lt;&#x2F;strong&gt;: A warning with consequences for continued behavior. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or
+permanent ban.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;3-temporary-ban&quot;&gt;3. Temporary Ban&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Impact&lt;&#x2F;strong&gt;: A serious violation of community standards, including
+sustained inappropriate behavior.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Consequence&lt;&#x2F;strong&gt;: A temporary ban from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms may lead to a permanent ban.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;4-permanent-ban&quot;&gt;4. Permanent Ban&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Community Impact&lt;&#x2F;strong&gt;: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior,  harassment of an
+individual, or aggression toward or disparagement of classes of individuals.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Consequence&lt;&#x2F;strong&gt;: A permanent ban from any sort of public interaction within
+the community.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;attribution&quot;&gt;Attribution&lt;&#x2F;h2&gt;
+&lt;p&gt;This Code of Conduct is adapted from the &lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&quot;&gt;Contributor Covenant&lt;&#x2F;a&gt;,
+version 2.0, available at
+&lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;version&#x2F;2&#x2F;0&#x2F;code_of_conduct.html&quot;&gt;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;version&#x2F;2&#x2F;0&#x2F;code_of_conduct.html&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Community Impact Guidelines were inspired by 
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mozilla&#x2F;diversity&quot;&gt;Mozilla&#x27;s code of conduct enforcement ladder&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;For answers to common questions about this code of conduct, see the FAQ at
+&lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;faq&quot;&gt;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;faq&lt;&#x2F;a&gt;. Translations are available 
+at &lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;translations&quot;&gt;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;translations&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>How to Contribute</title>
+        <published>2021-05-01T18:10:00+00:00</published>
+        <updated>2021-05-01T18:10:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/docs/contributing/how-to-contribute/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/docs/contributing/how-to-contribute/</id>
+        <content type="html">&lt;p&gt;👉 Make sure to read the &lt;a href=&quot;..&#x2F;code-of-conduct&#x2F;&quot;&gt;Code of Conduct&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contribute-to-doks&quot;&gt;Contribute to Doks&lt;&#x2F;h2&gt;
+&lt;p&gt;👉 The AdiDoks code lives in the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&quot;&gt;&lt;code&gt;adidoks&lt;&#x2F;code&gt; repository&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow the &lt;a href=&quot;https:&#x2F;&#x2F;guides.github.com&#x2F;introduction&#x2F;flow&#x2F;&quot;&gt;GitHub flow&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Follow the &lt;a href=&quot;https:&#x2F;&#x2F;www.conventionalcommits.org&#x2F;en&#x2F;v1.0.0&#x2F;&quot;&gt;Conventional Commits Specification&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;create-an-issue&quot;&gt;Create an issue&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&#x2F;issues&#x2F;new?template=bug-report---.md&quot;&gt;Bug report&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&#x2F;issues&#x2F;new?template=feature-request---.md&quot;&gt;Feature request&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;improve-documentation&quot;&gt;Improve documentation&lt;&#x2F;h2&gt;
+&lt;p&gt;👉 The documentation lives in &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks&#x2F;tree&#x2F;master&#x2F;content&#x2F;docs&quot;&gt;&lt;code&gt;.&#x2F;content&#x2F;docs&#x2F;&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;
+of the &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;h-enk&#x2F;getdoks.org&quot;&gt;&lt;code&gt;adidoks&lt;&#x2F;code&gt; repository&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow the &lt;a href=&quot;https:&#x2F;&#x2F;guides.github.com&#x2F;introduction&#x2F;flow&#x2F;&quot;&gt;GitHub flow&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Follow the &lt;a href=&quot;https:&#x2F;&#x2F;www.conventionalcommits.org&#x2F;en&#x2F;v1.0.0&#x2F;&quot;&gt;Conventional Commits Specification&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>Quick Start</title>
+        <published>2021-05-01T08:20:00+00:00</published>
+        <updated>2021-05-01T08:20:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/docs/getting-started/quick-start/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/docs/getting-started/quick-start/</id>
+        <content type="html">&lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;&#x2F;h2&gt;
+&lt;p&gt;Before using the theme, you need to install the &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;documentation&#x2F;getting-started&#x2F;installation&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt; ≥ 0.15.0.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;run-the-theme-directly&quot;&gt;Run the Theme Directly&lt;&#x2F;h2&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;git&lt;&#x2F;span&gt;&lt;span&gt; clone https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks.git
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span&gt; adidoks
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;zola&lt;&#x2F;span&gt;&lt;span&gt; serve
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Visit &lt;code&gt;http:&#x2F;&#x2F;127.0.0.1:1111&#x2F;&lt;&#x2F;code&gt; in the browser.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;&#x2F;h2&gt;
+&lt;p&gt;Just earlier we showed you how to run the theme directly. Now we start to
+install the theme in an existing site step by step.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-1-create-a-new-zola-site&quot;&gt;Step 1: Create a new zola site&lt;&#x2F;h3&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;zola&lt;&#x2F;span&gt;&lt;span&gt; init mysite
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;step-2-install-adidoks&quot;&gt;Step 2: Install AdiDoks&lt;&#x2F;h3&gt;
+&lt;p&gt;Download this theme to your themes directory:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span&gt; mysite&#x2F;themes
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;git&lt;&#x2F;span&gt;&lt;span&gt; clone https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks.git
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Or install as a submodule:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#96b5b4;&quot;&gt;cd&lt;&#x2F;span&gt;&lt;span&gt; mysite
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;git&lt;&#x2F;span&gt;&lt;span&gt; init  &lt;&#x2F;span&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# if your project is a git repository already, ignore this command
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;git&lt;&#x2F;span&gt;&lt;span&gt; submodule add https:&#x2F;&#x2F;github.com&#x2F;aaranxu&#x2F;adidoks.git themes&#x2F;adidoks
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;step-3-configuration&quot;&gt;Step 3: Configuration&lt;&#x2F;h3&gt;
+&lt;p&gt;Enable the theme in your &lt;code&gt;config.toml&lt;&#x2F;code&gt; in the site derectory:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;toml&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-toml &quot;&gt;&lt;code class=&quot;language-toml&quot; data-lang=&quot;toml&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;theme &lt;&#x2F;span&gt;&lt;span&gt;= &amp;quot;&lt;&#x2F;span&gt;&lt;span style=&quot;color:#a3be8c;&quot;&gt;adidoks&lt;&#x2F;span&gt;&lt;span&gt;&amp;quot;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Or copy the &lt;code&gt;config.toml.example&lt;&#x2F;code&gt; from the theme directory to your project&#x27;s
+root directory:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;cp&lt;&#x2F;span&gt;&lt;span&gt; themes&#x2F;adidoks&#x2F;config.toml.example config.toml
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;step-4-add-new-content&quot;&gt;Step 4: Add new content&lt;&#x2F;h3&gt;
+&lt;p&gt;You can copy the content from the theme directory to your project:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;cp -r&lt;&#x2F;span&gt;&lt;span&gt; themes&#x2F;adidoks&#x2F;content .
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;You can modify or add new posts in the &lt;code&gt;content&#x2F;blog&lt;&#x2F;code&gt;, &lt;code&gt;content&#x2F;docs&lt;&#x2F;code&gt; or other
+content directories as needed.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;step-5-run-the-project&quot;&gt;Step 5: Run the project&lt;&#x2F;h3&gt;
+&lt;p&gt;Just run &lt;code&gt;zola serve&lt;&#x2F;code&gt; in the root path of the project:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#bf616a;&quot;&gt;zola&lt;&#x2F;span&gt;&lt;span&gt; serve
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;AdiDoks will start the Zola development web server accessible by default at 
+&lt;code&gt;http:&#x2F;&#x2F;127.0.0.1:1111&lt;&#x2F;code&gt;. Saved changes will live reload in the browser.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>Introduction</title>
+        <published>2021-05-01T08:00:00+00:00</published>
+        <updated>2021-05-01T08:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/docs/getting-started/introduction/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/docs/getting-started/introduction/</id>
+        <content type="html">&lt;h2 id=&quot;quick-start&quot;&gt;Quick Start&lt;&#x2F;h2&gt;
+&lt;p&gt;One page summary of how to start a new AdiDoks project. &lt;a href=&quot;..&#x2F;quick-start&#x2F;&quot;&gt;Quick Start →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;go-further&quot;&gt;Go further&lt;&#x2F;h2&gt;
+&lt;p&gt;Contributing and Help.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;contributing&quot;&gt;Contributing&lt;&#x2F;h2&gt;
+&lt;p&gt;Find out how to contribute to Doks. &lt;a href=&quot;..&#x2F;..&#x2F;contributing&#x2F;how-to-contribute&#x2F;&quot;&gt;Contributing →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;help&quot;&gt;Help&lt;&#x2F;h2&gt;
+&lt;p&gt;Get help on Doks. &lt;a href=&quot;..&#x2F;..&#x2F;help&#x2F;faq&#x2F;&quot;&gt;Help →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>4. Directional antenna design </title>
+        <published>2021-04-21T00:00:00+00:00</published>
+        <updated>2021-04-21T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/blog/4-directional-antenna-design/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/blog/4-directional-antenna-design/</id>
+        <content type="html">&lt;p&gt;The present design aims to provide how to make a directional MiMo antenna for 5Ghz, capable of achieving a gain of 20dB to 25dB.&lt;&#x2F;p&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ubGm5SP.png&quot; width=&quot;500&quot; height=&quot;500&quot;&gt;
+&lt;p&gt;In this new iteration of the &amp;quot;Trompebolic&amp;quot; design, we used a 44mm waveguide with a reflector to illuminate the parabolic dish.
+We used a 40cm diameter and 8cm high parabolic dish as a mould, calculating the focus at 12.5cm from the centre.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;O40ktXq.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;r7B7nDr.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reflector&quot;&gt;Reflector.&lt;&#x2F;h2&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;sjcB1Ct.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;h2 id=&quot;cover-parabola-support-and-handles&quot;&gt;Cover, parabola support and handles.&lt;&#x2F;h2&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;uCBFa1C.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;I7ZMRJ2.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ivvFrU9.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;h2 id=&quot;final-design&quot;&gt;Final design.&lt;&#x2F;h2&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;H1Ysg9e.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;i42kOdD.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>4. Diseño de antena direccional</title>
+        <published>2021-04-20T00:00:00+00:00</published>
+        <updated>2021-04-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/4diseno-antena-direccional/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/4diseno-antena-direccional/</id>
+        <content type="html">&lt;p&gt;Con el presente diseño se busca conseguir una antena MiMo para 5Ghz direccional, capaz de alcanzar entre 20dB y 25dB de ganancia
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ubGm5SP.png&quot; width=&quot;500&quot; height=&quot;500&quot;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;En esta nueva iteración del diseño &amp;quot;Trompebólica&amp;quot;, utilizamos una guía de ondas de 44mm con un reflector, para iluminar el plato parabolico.
+Usamos de molde un plato parabólico de 40cm de diámetro y 8cm de alto, calculando el foco a los 12,5cm del centro.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;O40ktXq.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt; &lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;r7B7nDr.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reflector&quot;&gt;Reflector.&lt;&#x2F;h2&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;sjcB1Ct.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;h2 id=&quot;tapa-soporte-de-parabola-y-agarraderas&quot;&gt;Tapa, soporte de parabola y agarraderas.&lt;&#x2F;h2&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;uCBFa1C.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;I7ZMRJ2.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;ivvFrU9.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;h2 id=&quot;diseno-final&quot;&gt;Diseño final.&lt;&#x2F;h2&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;H1Ysg9e.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;i.imgur.com&#x2F;i42kOdD.png&quot; width=&quot;500&quot; height=&quot;300&quot;&gt;
+</content>
+    </entry>
+    <entry xml:lang="es">
+        <title>Aaran Xu</title>
+        <published>2021-04-01T08:50:45+00:00</published>
+        <updated>2021-04-01T08:50:45+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://tdr.libre.org.ar/authors/aaran-xu/" type="text/html"/>
+        <id>https://tdr.libre.org.ar/authors/aaran-xu/</id>
+        <content type="html">&lt;p&gt;Creator of &lt;strong&gt;AdiDoks&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;aaranxu&quot;&gt;@aaranxu&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>
